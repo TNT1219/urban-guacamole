@@ -10,6 +10,8 @@ import threading
 import queue
 import time
 from typing import Dict, List, Tuple, Optional
+import json
+import os
 
 
 class TWIntegratedSystem:
@@ -36,6 +38,10 @@ class TWIntegratedSystem:
         # 控制标志
         self.running = False
         self.analysis_thread = None
+        
+        # 新增：SGF相关功能
+        self.sgf_parser = None
+        self.current_sgf_path = None
         
         # 初始化分析线程
         self._start_analysis_thread()
@@ -309,6 +315,77 @@ class TWIntegratedSystem:
         
         return True, analysis_result
     
+    def load_sgf(self, sgf_path: str):
+        """
+        加载SGF棋谱文件 - 增强功能
+        """
+        try:
+            # 尝试导入SGF解析器
+            from sgf_parser import SGFParser
+            self.sgf_parser = SGFParser()
+            
+            # 解析SGF文件
+            sgf_data = self.sgf_parser.load_from_file(sgf_path)
+            
+            # 重置棋盘和游戏历史
+            self.board = GoBoard(sgf_data['size'])
+            self.game_history = []
+            self.current_player = 'B'
+            
+            # 应用棋谱中的棋步
+            for move_num, color, coords in sgf_data['moves']:
+                if coords is not None:
+                    row, col = coords
+                    self.board.place_stone(row, col, color)
+                    move_notation = self._coordinate_to_gtp(row, col)
+                    self.game_history.append((move_notation, color))
+                    self.current_player = 'W' if color == 'B' else 'B'
+            
+            self.current_sgf_path = sgf_path
+            return True, f"成功加载 {len(sgf_data['moves'])} 手棋谱"
+        except ImportError:
+            return False, "SGF解析模块未找到，请确保已安装sgfmill库"
+        except Exception as e:
+            return False, f"加载SGF文件失败: {str(e)}"
+    
+    def get_current_position_analysis(self):
+        """
+        获取当前局面的完整分析 - 增强功能
+        """
+        board_state = {
+            'player': self.current_player,
+            'board_state': self._get_board_features(),
+            'move_sequence': [move[0] for move in self.game_history]
+        }
+        
+        analysis_result = self.analyze_position_for_interface(board_state, 'full_analysis')
+        return analysis_result
+    
+    def navigate_game_history(self, step: int):
+        """
+        导航游戏历史 - 增强功能
+        :param step: 步数，正数向前，负数向后
+        """
+        target_index = len(self.game_history) + step
+        target_index = max(0, min(target_index, len(self.game_history)))
+        
+        # 重置棋盘
+        self.board = GoBoard(19)
+        self.game_history = self.game_history[:target_index]
+        
+        # 重新应用棋步到目标位置
+        for move_notation, player in self.game_history:
+            row, col = self._gtp_to_coordinate(move_notation)
+            if row != -1 and col != -1:
+                self.board.place_stone(row, col, player)
+        
+        if self.game_history:
+            self.current_player = 'W' if self.game_history[-1][1] == 'B' else 'B'
+        else:
+            self.current_player = 'B'
+        
+        return target_index, len(self.game_history)
+    
     def _coordinate_to_gtp(self, row: int, col: int) -> str:
         """
         将坐标转换为GTP格式
@@ -347,6 +424,23 @@ class TWIntegratedSystem:
         # 创建界面实例，传入当前系统实例以实现双向通信
         self.interface = InteractiveGoInterfaceWrapper(self)
         self.interface.run()
+    
+    def export_analysis_report(self):
+        """
+        导出分析报告 - 增强功能
+        """
+        analysis_report = {
+            'game_info': {
+                'total_moves': len(self.game_history),
+                'current_player': self.current_player,
+                'board_size': self.board.size,
+                'sgf_loaded': self.current_sgf_path is not None
+            },
+            'current_analysis': self.get_current_position_analysis(),
+            'game_history_sample': self.game_history[:10],  # 前10手作为样本
+            'improvement_metrics': self.self_improvement_engine.get_self_improvement_report()
+        }
+        return analysis_report
     
     def stop(self):
         """
@@ -455,9 +549,14 @@ class InteractiveGoInterfaceWrapper:
         control_frame = self.ttk.Frame(info_frame)
         control_frame.grid(row=8, column=0, columnspan=2, pady=10)
         
+        # 添加SGF导入按钮
+        self.ttk.Button(control_frame, text="导入SGF", command=self.load_sgf_file).pack(side=self.tk.LEFT, padx=(0, 5))
+        self.ttk.Button(control_frame, text="前进", command=self.next_move).pack(side=self.tk.LEFT, padx=(0, 5))
+        self.ttk.Button(control_frame, text="后退", command=self.prev_move).pack(side=self.tk.LEFT, padx=(0, 5))
         self.ttk.Button(control_frame, text="悔棋", command=self.undo_move).pack(side=self.tk.LEFT, padx=(0, 5))
         self.ttk.Button(control_frame, text="重新分析", command=self.reanalyze_position).pack(side=self.tk.LEFT, padx=(0, 5))
         self.ttk.Button(control_frame, text="保存棋谱", command=self.save_sgf).pack(side=self.tk.LEFT)
+        self.ttk.Button(control_frame, text="导出报告", command=self.export_report).pack(side=self.tk.LEFT, padx=(5, 0))
         
         # 配置网格权重
         main_frame.columnconfigure(0, weight=1)
@@ -579,9 +678,183 @@ class InteractiveGoInterfaceWrapper:
             self.thickness_var.set(analysis_result.get('thickness', ''))
             self.weight_var.set(analysis_result.get('weight', ''))
     
+    def draw_board(self):
+        """
+        绘制棋盘
+        """
+        if not self.canvas:
+            return
+            
+        self.canvas.delete("all")
+        size = self.system.board.size
+        cell_size = min(400 // size, 400 // size)
+        offset = (400 - (size - 1) * cell_size) // 2
+        
+        # 绘制网格线
+        for i in range(size):
+            # 垂直线
+            x = offset + i * cell_size
+            self.canvas.create_line(x, offset, x, offset + (size - 1) * cell_size)
+            # 水平线
+            y = offset + i * cell_size
+            self.canvas.create_line(offset, y, offset + (size - 1) * cell_size, y)
+        
+        # 绘制星位点
+        star_points = [3, 9, 15] if size == 19 else [2, int(size/2), size-3]
+        for i in star_points:
+            for j in star_points:
+                x = offset + i * cell_size
+                y = offset + j * cell_size
+                self.canvas.create_oval(x-2, y-2, x+2, y+2, fill='black')
+        
+        # 绘制棋子（从系统棋盘获取）
+        for i in range(size):
+            for j in range(size):
+                stone = self.system.board.get_stone(i, j)
+                if stone != '.':
+                    x = offset + j * cell_size
+                    y = offset + i * cell_size
+                    color = 'black' if stone == 'B' else 'white'
+                    outline = 'black' if stone == 'B' else 'black'  # 白子用黑色轮廓
+                    self.canvas.create_oval(
+                        x-12, y-12, x+12, y+12, 
+                        fill=color, outline=outline, width=1
+                    )
+
+    def on_board_click(self, event):
+        """
+        处理棋盘点击事件 - TW2.0调用TW1.0分析
+        """
+        size = self.system.board.size
+        cell_size = min(400 // size, 400 // size)
+        offset = (400 - (size - 1) * cell_size) // 2
+        
+        # 计算点击位置对应的棋盘坐标
+        col = round((event.x - offset) / cell_size)
+        row = round((event.y - offset) / cell_size)
+        
+        # 检查坐标是否在棋盘范围内
+        if 0 <= row < size and 0 <= col < size:
+            # 调用集成系统进行落子和分析（使用TW1.0能力）
+            success, analysis_result = self.system.place_stone_and_analyze(row, col, self.current_player)
+            
+            if success:
+                # 更新界面显示
+                self.draw_board()
+                
+                # 更新分析结果显示
+                if isinstance(analysis_result, dict):
+                    self.win_rate_var.set(f"黑棋 {analysis_result.get('win_rate', 50.0)}% / 白棋 {100 - analysis_result.get('win_rate', 50.0)}%")
+                    self.intention_var.set(analysis_result.get('intention_analysis', ''))
+                    
+                    variations_text = '; '.join(analysis_result.get('variations', []))
+                    self.variations_var.set(variations_text[:100] + "..." if len(variations_text) > 100 else variations_text)
+                    
+                    self.life_death_var.set(analysis_result.get('life_death', ''))
+                    self.thickness_var.set(analysis_result.get('thickness', ''))
+                    self.weight_var.set(analysis_result.get('weight', ''))
+
+    def undo_move(self):
+        """悔棋功能"""
+        if self.system.game_history:
+            self.system.game_history.pop()
+            self.current_player = 'W' if self.current_player == 'B' else 'B'
+            # 重新设置棋盘状态
+            from go_commentary_engine.board import GoBoard
+            self.system.board = GoBoard(19)  # 重置棋盘
+            for move, player in self.system.game_history:
+                row, col = self.system._gtp_to_coordinate(move)
+                if row != -1 and col != -1:
+                    self.system.board.place_stone(row, col, player)
+            
+            self.draw_board()
+    
+    def reanalyze_position(self):
+        """重新分析当前局面"""
+        # 使用TW1.0的分析能力重新分析
+        board_state = {
+            'player': self.current_player,
+            'board_state': self.system._get_board_features(),
+            'move_sequence': [move[0] for move in self.system.game_history]
+        }
+        
+        analysis_result = self.system.analyze_position_for_interface(board_state, 'full_analysis')
+        
+        # 更新界面
+        if isinstance(analysis_result, dict):
+            self.win_rate_var.set(f"黑棋 {analysis_result.get('win_rate', 50.0)}% / 白棋 {100 - analysis_result.get('win_rate', 50.0)}%")
+            self.intention_var.set(analysis_result.get('intention_analysis', ''))
+            
+            variations_text = '; '.join(analysis_result.get('variations', []))
+            self.variations_var.set(variations_text[:100] + "..." if len(variations_text) > 100 else variations_text)
+            
+            self.life_death_var.set(analysis_result.get('life_death', ''))
+            self.thickness_var.set(analysis_result.get('thickness', ''))
+            self.weight_var.set(analysis_result.get('weight', ''))
+    
     def save_sgf(self):
         """保存SGF棋谱"""
         print("SGF棋谱保存功能待实现")
+    
+    def load_sgf_file(self):
+        """导入SGF棋谱文件 - 增强功能"""
+        try:
+            from tkinter import filedialog
+            filename = filedialog.askopenfilename(
+                title="选择SGF棋谱文件",
+                filetypes=[("SGF files", "*.sgf"), ("All files", "*.*")]
+            )
+            if filename:
+                success, message = self.system.load_sgf(filename)
+                if success:
+                    self.draw_board()
+                    self.reanalyze_position()
+                    print(f"成功加载: {message}")
+                else:
+                    print(f"加载失败: {message}")
+        except ImportError:
+            print("tkinter.filedialog不可用，请确保已安装完整版Python")
+        except Exception as e:
+            print(f"导入SGF文件时出错: {str(e)}")
+    
+    def next_move(self):
+        """下一步 - 增强功能"""
+        try:
+            # 模拟导航到下一步
+            current_idx, total_moves = self.system.navigate_game_history(1)
+            self.draw_board()
+            self.reanalyze_position()
+            print(f"前进到第 {current_idx}/{total_moves} 步")
+        except Exception as e:
+            print(f"前进时出错: {str(e)}")
+    
+    def prev_move(self):
+        """上一步 - 增强功能"""
+        try:
+            # 模拟导航到上一步
+            current_idx, total_moves = self.system.navigate_game_history(-1)
+            self.draw_board()
+            self.reanalyze_position()
+            print(f"后退到第 {current_idx}/{total_moves} 步")
+        except Exception as e:
+            print(f"后退时出错: {str(e)}")
+    
+    def export_report(self):
+        """导出分析报告 - 增强功能"""
+        try:
+            report = self.system.export_analysis_report()
+            from tkinter import filedialog
+            filename = filedialog.asksaveasfilename(
+                title="保存分析报告",
+                defaultextension=".json",
+                filetypes=[("JSON files", "*.json"), ("All files", "*.*")]
+            )
+            if filename:
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(report, f, ensure_ascii=False, indent=2)
+                print(f"分析报告已保存到: {filename}")
+        except Exception as e:
+            print(f"导出报告时出错: {str(e)}")
 
 
 def main():
