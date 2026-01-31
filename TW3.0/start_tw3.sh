@@ -7,31 +7,37 @@ echo "正在启动 TW Go Commentary Engine (TW3.0)..."
 echo "时间: $(date)"
 
 # 检查Python环境
-if [ -d "venv" ]; then
-    echo "激活虚拟环境..."
-    source venv/bin/activate
+PYTHON_CMD="python3"
+if ! command -v $PYTHON_CMD &> /dev/null; then
+    PYTHON_CMD="python"
 fi
 
-# 启动TW3.0集成系统
-echo "启动TW3.0集成系统..."
-python go_commentary_engine/integrated_system.py &
+echo "使用Python命令: $PYTHON_CMD"
 
-# 启动持续学习进程
-echo "启动持续学习进程..."
-python continuous_learning.py &
-
-# 启动调试监控
+# 启动调试监控（后台）
 echo "启动调试监控..."
-python debug_monitor.py &
+$PYTHON_CMD debug_monitor.py &
+DEBUG_PID=$!
 
-echo "TW3.0系统已启动!"
-echo "PID列表:"
-jobs -p
+# 启动持续学习进程（后台）
+echo "启动持续学习进程..."
+$PYTHON_CMD continuous_learning.py &
+LEARNING_PID=$!
 
+# 稍等片刻让服务启动
+sleep 2
+
+echo "TW3.0核心服务已启动!"
+echo "调试监控PID: $DEBUG_PID"
+echo "持续学习PID: $LEARNING_PID"
+
+echo ""
 echo "系统包含以下组件:"
 echo "- TW1.0 分析引擎 (集成在主系统中)"
 echo "- TW2.0 交互界面 (集成在主系统中)"
 echo "- 持续学习进程"
 echo "- 调试监控系统"
+echo ""
 
-echo "要停止系统，请运行: pkill -f 'python.*\(integrated_system\|continuous_learning\|debug_monitor\)'"
+echo "要使用系统，请运行: $PYTHON_CMD -c \"from integrated_system import TWIntegratedSystem; system = TWIntegratedSystem()\""
+echo "要停止系统，请运行: pkill -f 'python.*\(continuous_learning\|debug_monitor\)'"

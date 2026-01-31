@@ -1,0 +1,8 @@
+2026-01-31 21:58:47,103 [DEBUG] TW3_Interface: 界面交互: place_stone
+2026-01-31 21:58:47,103 [DEBUG] TW3_Interface: 参数: {'row': 3, 'col': 3}
+2026-01-31 21:58:47,103 [DEBUG] TW3_Interface: 处理界面请求...
+2026-01-31 21:58:47,153 [DEBUG] TW3_Interface: 界面响应完成
+2026-01-31 21:58:47,607 [DEBUG] TW3_Interface: 界面交互: place_stone
+2026-01-31 21:58:47,608 [DEBUG] TW3_Interface: 参数: {'row': 3, 'col': 3}
+2026-01-31 21:58:47,608 [DEBUG] TW3_Interface: 处理界面请求...
+2026-01-31 21:58:47,658 [DEBUG] TW3_Interface: 界面响应完成
