@@ -5,6 +5,7 @@ TW3.0 SGF棋谱分析器
 
 import sys
 import os
+from typing import Dict, List, Tuple
 from sgf_parser import SGFParser, analyze_sgf_for_tw3
 
 
@@ -16,7 +17,7 @@ class TW3SGFAnalyzer:
     def __init__(self):
         self.parser = SGFParser()
     
-    def load_and_analyze_sgf(self, filepath: str) -> Dict:
+    def load_and_analyze_sgf(self, filepath: str) -> dict:
         """
         加载并分析SGF棋谱
         :param filepath: SGF文件路径
@@ -42,7 +43,7 @@ class TW3SGFAnalyzer:
         
         return report
     
-    def _generate_summary(self, sgf_data: Dict, analyses: List[Dict]) -> Dict:
+    def _generate_summary(self, sgf_data: dict, analyses: List[dict]) -> dict:
         """
         生成棋局总结
         """
@@ -64,7 +65,7 @@ class TW3SGFAnalyzer:
             'overall_commentary': self._generate_overall_commentary(sgf_data, analyses)
         }
     
-    def _identify_key_moments(self, analyses: List[Dict]) -> List[Dict]:
+    def _identify_key_moments(self, analyses: List[dict]) -> List[dict]:
         """
         识别关键时刻
         """
@@ -81,7 +82,7 @@ class TW3SGFAnalyzer:
         
         return key_moments
     
-    def _generate_overall_commentary(self, sgf_data: Dict, analyses: List[Dict]) -> str:
+    def _generate_overall_commentary(self, sgf_data: dict, analyses: List[dict]) -> str:
         """
         生成总体评述
         """
@@ -108,7 +109,7 @@ class TW3SGFAnalyzer:
         
         return commentary
     
-    def print_detailed_analysis(self, report: Dict):
+    def print_detailed_analysis(self, report: dict):
         """
         打印详细的分析结果
         """

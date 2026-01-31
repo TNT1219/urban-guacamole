@@ -10,7 +10,16 @@ import json
 import os
 from datetime import datetime
 from go_commentary_engine.self_improvement import SelfImprovementEngine
-from training_data.professional_commentary_examples import *
+try:
+    from training_data.professional_commentary_examples import *
+except ImportError:
+    # 如果在TW3.0文件夹内运行，需要调整导入路径
+    try:
+        from go_commentary_engine.training_data.professional_commentary_examples import *
+    except ImportError:
+        # 定义默认值
+        PROFESSIONAL_COMMENTARY_EXAMPLES = []
+        PROFESSIONAL_GAME_RECORDS = []
 
 class ContinuousLearningEngine:
     def __init__(self):
