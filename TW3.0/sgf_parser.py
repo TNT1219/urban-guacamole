@@ -25,7 +25,6 @@ class SGFParser:
         :return: 包含棋谱信息的字典
         """
         # 移除注释和空白字符
-        sgf_content = re.sub(r';(?=\s*[A-Z][A-Z])', ';\n', sgf_content)
         sgf_content = sgf_content.replace('\n', '').replace('\r', '').strip()
         
         # 解析头部信息
@@ -74,20 +73,21 @@ class SGFParser:
         
         return header
     
-    def _parse_moves(self, sgf_content: str) -> List[Tuple[str, str, int]]:
+    def _parse_moves(self, sgf_content: str) -> List[Tuple[int, str, Optional[Tuple[int, int]]]]:
         """
         解析棋步序列
         :return: [(move_number, color, coordinates), ...]
         """
         moves = []
         
-        # 查找所有棋步 (B=Black, W=White)
-        move_pattern = r'(B|W)\[([a-z]{2}|[])'
-        matches = re.findall(move_pattern, sgf_content)
+        # 使用更简单的方法来查找棋步
+        # 先提取所有B[xx]和W[xx]模式
+        pattern = r'(B|W)\[([a-z]{2}|)\]'
+        matches = re.findall(pattern, sgf_content)
         
         move_num = 1
         for color, coord in matches:
-            if coord == ']' or coord == 'tt':  # 虚手或空手
+            if coord == '' or coord == 'tt':  # 空坐标表示虚手
                 moves.append((move_num, color, None))
             elif len(coord) == 2:
                 # 转换坐标 a-z to 0-25
