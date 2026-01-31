@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-TW1.0.0 持续学习与自我强化脚本
-实现7x24小时不间断的自我迭代优化
+TW3.0 持续学习与自我强化脚本
+实现24小时不间断的解说能力强化
 """
 
 import time
@@ -21,9 +21,12 @@ except ImportError:
         PROFESSIONAL_COMMENTARY_EXAMPLES = []
         PROFESSIONAL_GAME_RECORDS = []
 
+from continuous_improvement import ContinuousImprovementSystem
+
 class ContinuousLearningEngine:
     def __init__(self):
         self.improvement_engine = SelfImprovementEngine()
+        self.continuous_improvement_system = ContinuousImprovementSystem()
         self.is_running = False
         self.session_start_time = None
         self.iterations_completed = 0
@@ -46,6 +49,12 @@ class ContinuousLearningEngine:
             "此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。",
             "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
             "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+            "意图分析：布局意图，构建外势，为中盘作战做准备。",
+            "死活分析：活棋，已有两眼，绝对安全。",
+            "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+            "轻重分析：很重，此手棋战略意义重大，应优先处理。",
+            "目数影响：高价值，此手棋价值约3目，显著改善了局面。",
+            "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。"
         ]
         
         return training_samples
@@ -83,6 +92,9 @@ class ContinuousLearningEngine:
             feedback_score=quality_score
         )
         
+        # 同时运行连续改进系统
+        improvement_record = self.continuous_improvement_system.run_single_iteration()
+        
         # 记录迭代信息
         iteration_record = {
             'timestamp': datetime.now().isoformat(),
@@ -90,9 +102,14 @@ class ContinuousLearningEngine:
             'input_sample': sample,
             'analysis_result': analysis_result,
             'quality_score': score,
+            'improvement_record': improvement_record,
             'engine_state': {
                 'accuracy': self.improvement_engine.analysis_accuracy,
                 'iterations': self.improvement_engine.iteration_count
+            },
+            'improvement_state': {
+                'accuracy': self.continuous_improvement_system.improvement_engine.analysis_accuracy,
+                'iterations': self.continuous_improvement_system.iterations_completed
             }
         }
         
@@ -139,6 +156,7 @@ class ContinuousLearningEngine:
         
         print(f"[{self.session_start_time}] 开始持续学习会话...")
         print(f"目标：每小时 {iterations_per_hour} 次迭代")
+        print("24小时不间断解说能力强化系统已启动")
         
         try:
             while self.is_running:
@@ -155,6 +173,9 @@ class ContinuousLearningEngine:
                     
                     report = self.improvement_engine.get_self_improvement_report()
                     print(f"  - 性能趋势: {report['performance_trend']}")
+                    
+                    improvement_report = self.continuous_improvement_system.get_status_report()
+                    print(f"  - 改进系统准确率: {improvement_report['current_accuracy']:.3f}")
                 
                 # 计算剩余等待时间以维持所需的迭代频率
                 elapsed_time = time.time() - start_time
@@ -198,7 +219,8 @@ class ContinuousLearningEngine:
             'iterations_completed': self.iterations_completed,
             'current_accuracy': self.improvement_engine.analysis_accuracy,
             'performance_trend': self.improvement_engine._get_performance_trend(),
-            'recent_improvements': self.improvement_engine._get_recommendations()[-3:] if self.improvement_engine._get_recommendations() else []
+            'recent_improvements': self.improvement_engine._get_recommendations()[-3:] if self.improvement_engine._get_recommendations() else [],
+            'improvement_system_status': self.continuous_improvement_system.get_status_report()
         }
         
         return report
@@ -208,8 +230,8 @@ def main():
     """
     主函数：启动持续学习过程
     """
-    print("=== TW1.0.0 持续学习与自我强化系统 ===")
-    print("启动7x24小时不间断自我迭代优化...")
+    print("=== TW3.0 持续学习与解说能力强化系统 ===")
+    print("启动24小时不间断自我迭代优化...")
     
     engine = ContinuousLearningEngine()
     
