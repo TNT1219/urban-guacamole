@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]TM[0]
+PW[White]PB[Black]WR[]BR[]
+DT[2023-01-01]PC[test]
+;B[dd];W[pp];B[dq];W[pd];B[fq];W[nc];B[ql];W[dn];B[cn];W[cm]
+;B[bl];W[bk];B[cl];W[dk];B[ei];W[cj];B[ch];W[di];B[dh];W[eg]
+;B[eh];W[fg];B[gg];W[fh];B[gh];W[gi];B[hi];W[hg];B[if];W[jg]
+;B[kg];W[jf];B[kf];W[lf];B[kh];W[kk];B[jj];W[jk];B[ik];W[il]
+;B[hl];W[im];B[hm];W[in];B[jm];W[jn];B[kn];W[lm];B[ll];W[ml]
+;B[nl];W[nk];B[nj];W[mk];B[lk];W[mm];B[nm];W[nn];B[on];W[mo]
+;B[po];W[qo];B[op];W[oq];B[pr];W[qr];B[ps];W[qs];B[rs];W[rr])
