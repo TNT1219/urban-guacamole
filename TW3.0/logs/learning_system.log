@@ -1,5 +1,5 @@
 启动TW3.0持续学习和自主迭代系统
-[2026-02-02T14:22:48.774519] 完成一次学习步骤，处理了14条数据
+[2026-02-02T14:58:57.470521] 完成一次学习步骤，处理了15条数据
 持续学习系统已启动
 完成第1次自主迭代
 健康检查结果: healthy
@@ -11,16 +11,17 @@
 健康检查结果: healthy
 完成第5次自主迭代
 健康检查结果: healthy
+[2026-02-02T14:59:07.470937] 完成一次学习步骤，处理了13条数据
 
 === TW3.0自主迭代改进报告 ===
 总迭代次数: 5
 最近10次平均置信度: 0.500
 参数配置:
   - 分析深度: 5
-  - 置信度阈值: 0.7
+  - 置信度阈值: 0.6649999999999999
   - 反馈权重: 0.8
 
 改进趋势: 需关注
 
-学习系统状态: {'is_running': True, 'log_entries_count': 1, 'performance_metrics': {'total_sessions': 1, 'average_accuracy': 0.0, 'improvement_rate': 0.0, 'last_update': '2026-02-02T14:22:48.774519'}, 'storage_path': '/root/clawd/TW3.0/learning_data'}
+学习系统状态: {'is_running': True, 'log_entries_count': 2, 'performance_metrics': {'total_sessions': 2, 'average_accuracy': 1.0, 'improvement_rate': 1.0, 'last_update': '2026-02-02T14:59:07.470937', 'learning_throughput': 5.599767049690733}, 'storage_path': '/root/clawd/TW3.0/learning_data'}
 持续学习系统已停止
