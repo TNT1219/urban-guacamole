@@ -14,3 +14,246 @@ Traceback (most recent call last):
 TypeError: TW3ErrorHandler.safe_execute() got an unexpected keyword argument 'board_state'
 
 ============================================================
+2026-02-02 18:22:50,537 - ERROR - [TW3HeadlessSystem] 意图分析 - 'NoneType' object is not iterable
+
+============================================================
+错误时间: 2026-02-02T18:22:50.535886
+组件: TW3HeadlessSystem
+上下文: 意图分析
+错误类型: TypeError
+错误信息: 'NoneType' object is not iterable
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 219, in <lambda>
+    lambda: self.intent_analyzer.analyze_move_intent(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 66, in analyze_move_intent
+    environmental_factors = self._analyze_environmental_factors(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 134, in _analyze_environmental_factors
+    "附近友方棋子数量": len([stone for stone in surrounding_stones if stone[2] == 'own']),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+============================================================
+2026-02-02 18:22:50,537 - ERROR - [TW3HeadlessSystem] 厚薄分析 - ThicknessAnalyzer.analyze_thickness() missing 1 required positional argument: 'region'
+
+============================================================
+错误时间: 2026-02-02T18:22:50.537272
+组件: TW3HeadlessSystem
+上下文: 厚薄分析
+错误类型: TypeError
+错误信息: ThicknessAnalyzer.analyze_thickness() missing 1 required positional argument: 'region'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 242, in <lambda>
+    lambda: self.thickness_analyzer.analyze_thickness({
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ThicknessAnalyzer.analyze_thickness() missing 1 required positional argument: 'region'
+
+============================================================
+2026-02-02 18:22:50,537 - ERROR - [TW3HeadlessSystem] 轻重分析 - ImportanceAnalyzer.analyze_importance() missing 1 required positional argument: 'stones'
+
+============================================================
+错误时间: 2026-02-02T18:22:50.537642
+组件: TW3HeadlessSystem
+上下文: 轻重分析
+错误类型: TypeError
+错误信息: ImportanceAnalyzer.analyze_importance() missing 1 required positional argument: 'stones'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 253, in <lambda>
+    lambda: self.importance_analyzer.analyze_importance({
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ImportanceAnalyzer.analyze_importance() missing 1 required positional argument: 'stones'
+
+============================================================
+2026-02-02 18:22:50,539 - ERROR - [TW3HeadlessSystem] 目数变化分析 - 'ScoreChangeAnalyzer' object has no attribute 'analyze_score_change'
+
+============================================================
+错误时间: 2026-02-02T18:22:50.537995
+组件: TW3HeadlessSystem
+上下文: 目数变化分析
+错误类型: AttributeError
+错误信息: 'ScoreChangeAnalyzer' object has no attribute 'analyze_score_change'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 264, in <lambda>
+    lambda: self.score_analyzer.analyze_score_change({
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ScoreChangeAnalyzer' object has no attribute 'analyze_score_change'
+
+============================================================
+2026-02-02 18:22:50,539 - ERROR - [TW3HeadlessSystem] 获取当前位置分析 - 'LifeDeathResult' object has no attribute 'get'
+
+============================================================
+错误时间: 2026-02-02T18:22:50.539314
+组件: TW3HeadlessSystem
+上下文: 获取当前位置分析
+错误类型: AttributeError
+错误信息: 'LifeDeathResult' object has no attribute 'get'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/headless_system.py", line 283, in get_current_position_analysis
+    "life_death": life_death_result.get("status", "未确定：无法分析该位置的死活状态") if life_death_result else "分析出错",
+                  ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LifeDeathResult' object has no attribute 'get'
+
+============================================================
+2026-02-02 18:23:05,881 - ERROR - [TW3HeadlessSystem] 意图分析 - 'NoneType' object is not iterable
+
+============================================================
+错误时间: 2026-02-02T18:23:05.880750
+组件: TW3HeadlessSystem
+上下文: 意图分析
+错误类型: TypeError
+错误信息: 'NoneType' object is not iterable
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 219, in <lambda>
+    lambda: self.intent_analyzer.analyze_move_intent(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 66, in analyze_move_intent
+    environmental_factors = self._analyze_environmental_factors(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 134, in _analyze_environmental_factors
+    "附近友方棋子数量": len([stone for stone in surrounding_stones if stone[2] == 'own']),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+============================================================
+2026-02-02 18:23:05,882 - ERROR - [TW3HeadlessSystem] 死活分析 - LifeDeathAnalyzer.analyze_life_death() got an unexpected keyword argument 'board_state'
+
+============================================================
+错误时间: 2026-02-02T18:23:05.882115
+组件: TW3HeadlessSystem
+上下文: 死活分析
+错误类型: TypeError
+错误信息: LifeDeathAnalyzer.analyze_life_death() got an unexpected keyword argument 'board_state'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 231, in <lambda>
+    lambda: self.life_death_analyzer.analyze_life_death(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: LifeDeathAnalyzer.analyze_life_death() got an unexpected keyword argument 'board_state'
+
+============================================================
+2026-02-02 18:23:05,882 - ERROR - [TW3HeadlessSystem] 厚薄分析 - ThicknessAnalyzer.analyze_thickness() got an unexpected keyword argument 'current_player'
+
+============================================================
+错误时间: 2026-02-02T18:23:05.882507
+组件: TW3HeadlessSystem
+上下文: 厚薄分析
+错误类型: TypeError
+错误信息: ThicknessAnalyzer.analyze_thickness() got an unexpected keyword argument 'current_player'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 242, in <lambda>
+    lambda: self.thickness_analyzer.analyze_thickness(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ThicknessAnalyzer.analyze_thickness() got an unexpected keyword argument 'current_player'
+
+============================================================
+2026-02-02 18:23:05,883 - ERROR - [TW3HeadlessSystem] 轻重分析 - ImportanceAnalyzer.analyze_importance() got an unexpected keyword argument 'current_player'
+
+============================================================
+错误时间: 2026-02-02T18:23:05.882858
+组件: TW3HeadlessSystem
+上下文: 轻重分析
+错误类型: TypeError
+错误信息: ImportanceAnalyzer.analyze_importance() got an unexpected keyword argument 'current_player'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 254, in <lambda>
+    lambda: self.importance_analyzer.analyze_importance(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ImportanceAnalyzer.analyze_importance() got an unexpected keyword argument 'current_player'
+
+============================================================
+2026-02-02 18:23:05,884 - ERROR - [TW3HeadlessSystem] 目数变化分析 - 'ScoreChangeAnalyzer' object has no attribute 'analyze_territory_status'
+
+============================================================
+错误时间: 2026-02-02T18:23:05.883179
+组件: TW3HeadlessSystem
+上下文: 目数变化分析
+错误类型: AttributeError
+错误信息: 'ScoreChangeAnalyzer' object has no attribute 'analyze_territory_status'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/error_recovery.py", line 95, in safe_execute
+    return func(*args)
+           ^^^^^^^^^^^
+  File "/root/clawd/TW3.0/headless_system.py", line 266, in <lambda>
+    lambda: self.score_analyzer.analyze_territory_status(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ScoreChangeAnalyzer' object has no attribute 'analyze_territory_status'
+
+============================================================
+2026-02-02 18:23:37,869 - ERROR - [TW3HeadlessSystem] 获取当前位置分析 - 'NoneType' object is not iterable
+
+============================================================
+错误时间: 2026-02-02T18:23:37.868918
+组件: TW3HeadlessSystem
+上下文: 获取当前位置分析
+错误类型: TypeError
+错误信息: 'NoneType' object is not iterable
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/headless_system.py", line 226, in get_current_position_analysis
+    default_return=self.intent_analyzer.analyze_move_intent(move_number=0)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 66, in analyze_move_intent
+    environmental_factors = self._analyze_environmental_factors(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 134, in _analyze_environmental_factors
+    "附近友方棋子数量": len([stone for stone in surrounding_stones if stone[2] == 'own']),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+============================================================
+2026-02-02 18:24:11,089 - ERROR - [TW3HeadlessSystem] 获取当前位置分析 - 'NoneType' object is not iterable
+
+============================================================
+错误时间: 2026-02-02T18:24:11.088983
+组件: TW3HeadlessSystem
+上下文: 获取当前位置分析
+错误类型: TypeError
+错误信息: 'NoneType' object is not iterable
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/headless_system.py", line 226, in get_current_position_analysis
+    default_return=self.intent_analyzer.analyze_move_intent(move_number=0)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 66, in analyze_move_intent
+    environmental_factors = self._analyze_environmental_factors(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/clawd/TW3.0/intent_recognition.py", line 134, in _analyze_environmental_factors
+    "附近友方棋子数量": len([stone for stone in surrounding_stones if stone[2] == 'own']),
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+============================================================
