@@ -1,0 +1,16 @@
+2026-02-02 16:58:51,266 - ERROR - [TW3HeadlessSystem] 获取当前位置分析 - TW3ErrorHandler.safe_execute() got an unexpected keyword argument 'board_state'
+
+============================================================
+错误时间: 2026-02-02T16:58:51.266157
+组件: TW3HeadlessSystem
+上下文: 获取当前位置分析
+错误类型: TypeError
+错误信息: TW3ErrorHandler.safe_execute() got an unexpected keyword argument 'board_state'
+堆栈跟踪:
+Traceback (most recent call last):
+  File "/root/clawd/TW3.0/headless_system.py", line 219, in get_current_position_analysis
+    intent_result = self.error_handler.safe_execute(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: TW3ErrorHandler.safe_execute() got an unexpected keyword argument 'board_state'
+
+============================================================
