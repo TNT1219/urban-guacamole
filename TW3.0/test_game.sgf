@@ -1,11 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[19]KM[0.00]TM[0]
-PW[White]PB[Black]WR[]BR[]
-DT[2023-01-01]PC[test]
-;B[dd];W[pp];B[dq];W[pd];B[fq];W[nc];B[ql];W[dn];B[cn];W[cm]
-;B[bl];W[bk];B[cl];W[dk];B[ei];W[cj];B[ch];W[di];B[dh];W[eg]
-;B[eh];W[fg];B[gg];W[fh];B[gh];W[gi];B[hi];W[hg];B[if];W[jg]
-;B[kg];W[jf];B[kf];W[lf];B[kh];W[kk];B[jj];W[jk];B[ik];W[il]
-;B[hl];W[im];B[hm];W[in];B[jm];W[jn];B[kn];W[lm];B[ll];W[ml]
-;B[nl];W[nk];B[nj];W[mk];B[lk];W[mm];B[nm];W[nn];B[on];W[mo]
-;B[po];W[qo];B[op];W[oq];B[pr];W[qr];B[ps];W[qs];B[rs];W[rr])
+RU[Japanese]SZ[19]KM[0.00]TM[6000]OT[5x10 byo-yomi]
+PW[White Player]PB[Black Player]WR[3k]BR[4k]
+DT[2026-02-02]EV[Test Game]
+;B[qd];W[dd];B[pp];W[dp];B[cn];W[oq];B[nc];W[qn];B[rn];W[qp];
+B[qq];W[rq];B[ro];W[po];B[pl];W[ql];B[rm];W[rk];B[ol];W[nl];
+B[nm];W[mm];B[ln];W[lm];B[km];W[jm];B[kn];W[jn];B[mp];W[np];
+B[op];W[mo];B[lp];W[kq];B[jq];W[ip];B[ho];W[gp];B[hp];W[go];
+B[fp];W[fo];B[eq];W[er];B[dr];W[cr];B[fq];W[gr];B[hr];W[hs];
+B[gs];W[fr];B[gq];W[gp];B[hp];W[io];B[ip];W[jo];B[ko];W[kp];
+B[jp];W[lo];B[ln];W[mn];B[nn];W[nq];B[mp];W[lq];B[lp];W[kr];
+B[jr];W[js];B[ir];W[is];B[hs];W[gs];B[fs];W[es];B[ds];W[cs];
+B[bs];W[ar];B[aq];W[br];B[as];W[fs];B[hs];W[hr];B[ir];W[hs];
+B[hr];W[gs];B[fr];W[hr];B[hq];W[hr];B[hp];W[hr];B[ho];W[hr];
+B[hn];W[hr];B[hq];W[hr];B[hr];W[hr];B[hr];W[hr];B[hr])
