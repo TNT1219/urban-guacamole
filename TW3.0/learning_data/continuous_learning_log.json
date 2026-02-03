@@ -1,3375 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03T17:41:02.905781",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:12.925248",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:22.944446",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:22.947500",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1860,
-      "average_accuracy": 1.00359496818896,
-      "improvement_rate": 0.003594968188960002,
-      "last_update": "2026-02-03T17:41:22.944446",
-      "learning_throughput": 2.007552219871967
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:32.964028",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:42.983431",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:41:52.994391",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:03.005709",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:13.016141",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:13.017334",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1865,
-      "average_accuracy": 1.0031913031878652,
-      "improvement_rate": 0.003191303187865299,
-      "last_update": "2026-02-03T17:42:13.016141",
-      "learning_throughput": 2.007095638166632
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:23.027133",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:33.038294",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:43.049036",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:42:53.059478",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:03.078654",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:03.080699",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1870,
-      "average_accuracy": 1.004218463574184,
-      "improvement_rate": 0.004218463574184001,
-      "last_update": "2026-02-03T17:43:03.078654",
-      "learning_throughput": 2.0064287388581854
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:13.104131",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:23.124771",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:33.149544",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:43.174295",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:53.193551",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:43:53.194643",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1875,
-      "average_accuracy": 1.0057958858841725,
-      "improvement_rate": 0.005795885884172373,
-      "last_update": "2026-02-03T17:43:53.193551",
-      "learning_throughput": 2.0060795604865036
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:03.204347",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:13.214842",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:23.225332",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:33.236037",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:43.246903",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:43.248207",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1880,
-      "average_accuracy": 1.007992093803469,
-      "improvement_rate": 0.00799209380346897,
-      "last_update": "2026-02-03T17:44:43.246903",
-      "learning_throughput": 2.0065892333874054
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:44:53.258616",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:03.269075",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:13.299538",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:23.328822",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:33.348222",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:33.350036",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1885,
-      "average_accuracy": 1.0035348024495072,
-      "improvement_rate": 0.0035348024495071447,
-      "last_update": "2026-02-03T17:45:33.348222",
-      "learning_throughput": 2.00825733339965
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:43.368777",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:45:53.388215",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:03.400173",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:13.410945",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:23.421336",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:23.422468",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1890,
-      "average_accuracy": 1.0027641309695505,
-      "improvement_rate": 0.0027641309695505024,
-      "last_update": "2026-02-03T17:46:23.421336",
-      "learning_throughput": 2.0085449641021667
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:33.432133",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:43.443004",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:46:53.453668",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:03.473791",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:13.493958",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:13.495022",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1895,
-      "average_accuracy": 1.0069432406850405,
-      "improvement_rate": 0.00694324068504058,
-      "last_update": "2026-02-03T17:47:13.493958",
-      "learning_throughput": 2.009147512579407
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:23.513774",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:33.533597",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:43.551988",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:47:53.582025",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:03.599140",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:03.600256",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1900,
-      "average_accuracy": 1.0037872726997839,
-      "improvement_rate": 0.0037872726997837613,
-      "last_update": "2026-02-03T17:48:03.599140",
-      "learning_throughput": 2.0081656917531587
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:13.610045",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:23.620988",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:33.631563",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:43.642337",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:53.652613",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:48:53.654184",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1905,
-      "average_accuracy": 1.0083863326682858,
-      "improvement_rate": 0.008386332668285737,
-      "last_update": "2026-02-03T17:48:53.652613",
-      "learning_throughput": 2.0083484580074007
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:03.666666",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:13.685826",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:23.704248",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:33.723852",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:43.742026",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:43.743123",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1910,
-      "average_accuracy": 1.0026255023449178,
-      "improvement_rate": 0.00262550234491775,
-      "last_update": "2026-02-03T17:49:43.742026",
-      "learning_throughput": 2.009049653305123
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:49:53.762171",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:03.772539",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:13.787169",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:23.797807",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:33.809877",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:33.811532",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1915,
-      "average_accuracy": 1.0047254877786855,
-      "improvement_rate": 0.004725487778685454,
-      "last_update": "2026-02-03T17:50:33.809877",
-      "learning_throughput": 2.0084971340328504
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:43.827409",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:50:53.838778",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:03.852776",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:13.884556",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:23.921796",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:23.923246",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1920,
-      "average_accuracy": 1.009143913337302,
-      "improvement_rate": 0.009143913337301936,
-      "last_update": "2026-02-03T17:51:23.921796",
-      "learning_throughput": 2.007838802009708
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:33.942159",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:43.967652",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:51:53.986677",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:03.997448",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:14.008246",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:14.009342",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1925,
-      "average_accuracy": 1.007590936637438,
-      "improvement_rate": 0.007590936637438002,
-      "last_update": "2026-02-03T17:52:14.008246",
-      "learning_throughput": 2.0087437947226103
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:24.018765",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:34.029106",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:44.040731",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:52:54.053392",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:04.074603",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:04.076217",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1930,
-      "average_accuracy": 1.0017334959662256,
-      "improvement_rate": 0.0017334959662257338,
-      "last_update": "2026-02-03T17:53:04.074603",
-      "learning_throughput": 2.008507164064441
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:14.094022",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:24.113399",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:34.132525",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:44.152727",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:54.185827",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:53:54.186920",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1935,
-      "average_accuracy": 1.00642085856599,
-      "improvement_rate": 0.00642085856598986,
-      "last_update": "2026-02-03T17:53:54.185827",
-      "learning_throughput": 2.0084736626987514
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:04.196376",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:14.207382",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:24.218075",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:34.228897",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:44.241945",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:44.243083",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1940,
-      "average_accuracy": 1.0052348424518287,
-      "improvement_rate": 0.005234842451828716,
-      "last_update": "2026-02-03T17:54:44.241945",
-      "learning_throughput": 2.009270139511337
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:54:54.252501",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:04.263123",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:14.292534",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:24.311703",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:34.335780",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:34.336937",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1945,
-      "average_accuracy": 1.0061048984101482,
-      "improvement_rate": 0.006104898410148082,
-      "last_update": "2026-02-03T17:55:34.335780",
-      "learning_throughput": 2.010161373035802
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:44.355797",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:55:54.375197",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:04.385580",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:14.396930",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:24.407903",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:24.408997",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1950,
-      "average_accuracy": 1.0071511237306927,
-      "improvement_rate": 0.0071511237306927655,
-      "last_update": "2026-02-03T17:56:24.407903",
-      "learning_throughput": 2.010435362492558
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:34.418676",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:44.429550",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:56:54.440777",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:04.458790",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:14.478005",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:14.479081",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1955,
-      "average_accuracy": 1.0068398726831707,
-      "improvement_rate": 0.006839872683170688,
-      "last_update": "2026-02-03T17:57:14.478005",
-      "learning_throughput": 2.0106059351657937
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:24.497257",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:34.516028",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:44.535599",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:57:54.562732",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:04.573107",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:04.574238",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1960,
-      "average_accuracy": 1.009973875839038,
-      "improvement_rate": 0.009973875839037988,
-      "last_update": "2026-02-03T17:58:04.573107",
-      "learning_throughput": 2.0114868013402933
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:14.583594",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:24.594061",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:34.604919",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:44.616100",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:54.626550",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:58:54.627659",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1965,
-      "average_accuracy": 1.0047467659461995,
-      "improvement_rate": 0.004746765946199577,
-      "last_update": "2026-02-03T17:58:54.626550",
-      "learning_throughput": 2.010943621804337
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:04.637600",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:14.656500",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:24.685337",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:34.705499",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:44.724414",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:44.725977",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1970,
-      "average_accuracy": 1.0045953865487889,
-      "improvement_rate": 0.004595386548788814,
-      "last_update": "2026-02-03T17:59:44.724414",
-      "learning_throughput": 2.011311658256247
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T17:59:54.743408",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:04.753657",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:14.764687",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:24.776336",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:34.786790",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:34.787977",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1975,
-      "average_accuracy": 1.002281914253808,
-      "improvement_rate": 0.002281914253807966,
-      "last_update": "2026-02-03T18:00:34.786790",
-      "learning_throughput": 2.011984999306662
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:44.797770",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:00:54.808125",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:04.819108",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:14.851534",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:24.870764",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:24.871871",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1980,
-      "average_accuracy": 1.0037642426039253,
-      "improvement_rate": 0.0037642426039252454,
-      "last_update": "2026-02-03T18:01:24.870764",
-      "learning_throughput": 2.011744370961575
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:34.892551",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:44.912643",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:01:54.932256",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:04.943332",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:14.954378",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:14.955516",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1985,
-      "average_accuracy": 1.0019952897549265,
-      "improvement_rate": 0.0019952897549264043,
-      "last_update": "2026-02-03T18:02:14.954378",
-      "learning_throughput": 2.010598909046767
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:24.965269",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:34.975680",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:44.986266",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:02:54.997133",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:05.007762",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:05.009002",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1990,
-      "average_accuracy": 1.0075707083676604,
-      "improvement_rate": 0.007570708367660375,
-      "last_update": "2026-02-03T18:03:05.007762",
-      "learning_throughput": 2.0120732538524226
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:15.028820",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:25.060776",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:35.080349",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:45.103953",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:55.124324",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:03:55.125455",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 1995,
-      "average_accuracy": 1.0026669543284707,
-      "improvement_rate": 0.002666954328470669,
-      "last_update": "2026-02-03T18:03:55.124324",
-      "learning_throughput": 2.0125321267050302
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:05.143237",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:15.155396",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:25.165769",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:35.176210",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:45.187207",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:45.188313",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2000,
-      "average_accuracy": 1.0052558386021875,
-      "improvement_rate": 0.005255838602187542,
-      "last_update": "2026-02-03T18:04:45.187207",
-      "learning_throughput": 2.012594418990664
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:04:55.197681",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:05.208301",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:15.220778",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:25.246371",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:35.265602",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:35.267279",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2005,
-      "average_accuracy": 1.0055516567063278,
-      "improvement_rate": 0.005551656706327889,
-      "last_update": "2026-02-03T18:05:35.265602",
-      "learning_throughput": 2.0127545154877624
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:45.285292",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:05:55.308581",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:05.327242",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:15.337676",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:25.348352",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:25.349468",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2010,
-      "average_accuracy": 1.007792564897312,
-      "improvement_rate": 0.0077925648973119965,
-      "last_update": "2026-02-03T18:06:25.348352",
-      "learning_throughput": 2.012813956324197
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:35.358805",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:45.369542",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:06:55.380377",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:05.392774",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:15.413029",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:15.414569",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2015,
-      "average_accuracy": 1.0060531202184706,
-      "improvement_rate": 0.006053120218470634,
-      "last_update": "2026-02-03T18:07:15.413029",
-      "learning_throughput": 2.0132716096271817
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:25.431762",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:35.455977",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:45.478938",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:07:55.500838",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:05.519677",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:05.520836",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2020,
-      "average_accuracy": 1.0010892119328798,
-      "improvement_rate": 0.001089211932879914,
-      "last_update": "2026-02-03T18:08:05.519677",
-      "learning_throughput": 2.0131292347312755
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:15.530246",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:25.543578",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:35.555030",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:45.565347",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:55.575769",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:08:55.576899",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2025,
-      "average_accuracy": 1.0042065718061866,
-      "improvement_rate": 0.0042065718061865525,
-      "last_update": "2026-02-03T18:08:55.575769",
-      "learning_throughput": 2.0123017849324367
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:05.586386",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:15.605718",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:25.623780",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:35.644670",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:45.666884",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:45.668477",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2030,
-      "average_accuracy": 1.0074494101943245,
-      "improvement_rate": 0.007449410194324506,
-      "last_update": "2026-02-03T18:09:45.666884",
-      "learning_throughput": 2.013739121741654
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:09:55.686531",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:05.696857",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:15.708287",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:25.718972",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:35.729372",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:35.730985",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2035,
-      "average_accuracy": 1.0075168183822976,
-      "improvement_rate": 0.007516818382297592,
-      "last_update": "2026-02-03T18:10:35.729372",
-      "learning_throughput": 2.0142884164538213
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:45.756134",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:10:55.766539",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:05.783318",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:15.801547",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:25.828797",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:25.830371",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2040,
-      "average_accuracy": 1.007943652520441,
-      "improvement_rate": 0.007943652520441151,
-      "last_update": "2026-02-03T18:11:25.828797",
-      "learning_throughput": 2.015810967379628
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:35.848008",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:45.868849",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:11:55.889490",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:05.910413",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:15.920857",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:15.922041",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2045,
-      "average_accuracy": 1.0048862345005456,
-      "improvement_rate": 0.004886234500545563,
-      "last_update": "2026-02-03T18:12:15.920857",
-      "learning_throughput": 2.016545032185305
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:25.933420",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:35.945318",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:45.957657",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:12:55.969408",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:05.983779",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:05.985174",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2050,
-      "average_accuracy": 1.007874302472441,
-      "improvement_rate": 0.007874302472440968,
-      "last_update": "2026-02-03T18:13:05.983779",
-      "learning_throughput": 2.0178632653766746
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:16.002544",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:26.030934",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:36.050476",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:46.074102",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:56.093666",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:13:56.095272",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2055,
-      "average_accuracy": 1.0010164080469417,
-      "improvement_rate": 0.0010164080469416735,
-      "last_update": "2026-02-03T18:13:56.093666",
-      "learning_throughput": 2.018684251094322
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:06.113575",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:16.123965",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:26.136031",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:36.149017",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:46.161536",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:46.162717",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2060,
-      "average_accuracy": 1.0030311026566647,
-      "improvement_rate": 0.0030311026566647733,
-      "last_update": "2026-02-03T18:14:46.161536",
-      "learning_throughput": 2.0195053616874237
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:14:56.173951",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:06.184802",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:16.204779",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:26.224377",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:36.244037",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:36.245279",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2065,
-      "average_accuracy": 1.0010219678424144,
-      "improvement_rate": 0.0010219678424144727,
-      "last_update": "2026-02-03T18:15:36.244037",
-      "learning_throughput": 2.0191597926598908
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:46.263768",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:15:56.282286",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:06.303173",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:16.314999",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:26.327512",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:26.328668",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2070,
-      "average_accuracy": 1.0019541218649906,
-      "improvement_rate": 0.0019541218649906465,
-      "last_update": "2026-02-03T18:16:26.327512",
-      "learning_throughput": 2.0177538745958237
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:36.339405",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:46.350050",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:16:56.360866",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:06.371887",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:16.384225",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:16.385501",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2075,
-      "average_accuracy": 1.0072886681121882,
-      "improvement_rate": 0.007288668112188262,
-      "last_update": "2026-02-03T18:17:16.384225",
-      "learning_throughput": 2.018283454829418
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:26.402925",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:36.429886",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:46.450266",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:17:56.473980",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:06.497287",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:06.498850",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2080,
-      "average_accuracy": 1.002503823596653,
-      "improvement_rate": 0.0025038235966530435,
-      "last_update": "2026-02-03T18:18:06.497287",
-      "learning_throughput": 2.0174599862535567
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:16.524902",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:26.555923",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:36.568044",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:46.583970",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:56.594542",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:18:56.595707",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2085,
-      "average_accuracy": 1.0094703516596433,
-      "improvement_rate": 0.009470351659643318,
-      "last_update": "2026-02-03T18:18:56.594542",
-      "learning_throughput": 2.0166420004039427
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:06.606920",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:16.625894",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:26.646787",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:36.665670",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:46.682699",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:46.684106",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2090,
-      "average_accuracy": 1.0071715930303322,
-      "improvement_rate": 0.007171593030332241,
-      "last_update": "2026-02-03T18:19:46.682699",
-      "learning_throughput": 2.0179323162790896
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:19:56.702472",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:06.713283",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:16.724352",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:26.735048",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:36.747198",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:36.748460",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2095,
-      "average_accuracy": 1.0067116264331835,
-      "improvement_rate": 0.006711626433183487,
-      "last_update": "2026-02-03T18:20:36.747198",
-      "learning_throughput": 2.018455660576134
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:46.758297",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:20:56.768819",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:06.779298",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:16.799397",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:26.829132",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:26.830826",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2100,
-      "average_accuracy": 1.001389163811068,
-      "improvement_rate": 0.0013891638110679208,
-      "last_update": "2026-02-03T18:21:26.829132",
-      "learning_throughput": 2.019069995157997
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:36.849891",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:46.869259",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:21:56.900837",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:06.911356",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:16.921650",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:16.922890",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2105,
-      "average_accuracy": 1.0010565440644423,
-      "improvement_rate": 0.0010565440644424273,
-      "last_update": "2026-02-03T18:22:16.921650",
-      "learning_throughput": 2.018826005421598
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:26.932130",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:36.943640",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:46.954642",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:22:56.965512",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:06.989702",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:06.991284",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2110,
-      "average_accuracy": 1.002023594546538,
-      "improvement_rate": 0.0020235945465381464,
-      "last_update": "2026-02-03T18:23:06.989702",
-      "learning_throughput": 2.018680218854528
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:17.020915",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:27.042306",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:37.063629",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:47.083681",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:57.111253",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:23:57.112505",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2115,
-      "average_accuracy": 1.0077979269343142,
-      "improvement_rate": 0.007797926934314195,
-      "last_update": "2026-02-03T18:23:57.111253",
-      "learning_throughput": 2.018341054812044
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:07.121773",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:17.139792",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:27.153051",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:37.164142",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:47.177646",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:47.178907",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2120,
-      "average_accuracy": 1.0068252148092312,
-      "improvement_rate": 0.006825214809231075,
-      "last_update": "2026-02-03T18:24:47.177646",
-      "learning_throughput": 2.0177259596187276
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:24:57.188948",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:07.209362",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:17.228763",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:27.250236",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:37.278766",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:37.280117",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2125,
-      "average_accuracy": 1.001673238483261,
-      "improvement_rate": 0.0016732384832610489,
-      "last_update": "2026-02-03T18:25:37.278766",
-      "learning_throughput": 2.0162641267300065
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:47.299925",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:25:57.310782",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:07.321600",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:17.332059",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:27.342989",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:27.344229",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2130,
-      "average_accuracy": 1.0060378220105417,
-      "improvement_rate": 0.006037822010541657,
-      "last_update": "2026-02-03T18:26:27.342989",
-      "learning_throughput": 2.0164075401457433
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:37.353717",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:47.364563",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:26:57.375296",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:07.404116",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:17.431575",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:17.433271",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2135,
-      "average_accuracy": 1.0043958497157928,
-      "improvement_rate": 0.004395849715792783,
-      "last_update": "2026-02-03T18:27:17.431575",
-      "learning_throughput": 2.0172031615715005
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:27.459897",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:37.490888",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:47.512537",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:27:57.530558",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:07.541019",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:07.542638",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2140,
-      "average_accuracy": 1.0047480928573533,
-      "improvement_rate": 0.004748092857353255,
-      "last_update": "2026-02-03T18:28:07.541019",
-      "learning_throughput": 2.0174328282134666
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:17.552680",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:27.563178",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:37.573938",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:47.584774",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:57.607930",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:28:57.609111",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2145,
-      "average_accuracy": 1.0010612640987329,
-      "improvement_rate": 0.0010612640987329718,
-      "last_update": "2026-02-03T18:28:57.607930",
-      "learning_throughput": 2.0168269775509433
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:07.627757",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:17.646125",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:27.669776",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:37.689276",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:47.700002",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:47.701232",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2150,
-      "average_accuracy": 1.009010307667084,
-      "improvement_rate": 0.009010307667083915,
-      "last_update": "2026-02-03T18:29:47.700002",
-      "learning_throughput": 2.0160357017934234
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:29:57.710702",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:07.721527",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:17.732401",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:27.743456",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:37.754203",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:37.755466",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2155,
-      "average_accuracy": 1.009573940306006,
-      "improvement_rate": 0.009573940306006015,
-      "last_update": "2026-02-03T18:30:37.754203",
-      "learning_throughput": 2.016364372605922
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:47.769938",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:30:57.798888",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:07.822889",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:17.840831",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:27.860077",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:27.861818",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2160,
-      "average_accuracy": 1.008181363190269,
-      "improvement_rate": 0.008181363190269065,
-      "last_update": "2026-02-03T18:31:27.860077",
-      "learning_throughput": 2.016224137103327
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:37.880241",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:47.899172",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:31:57.911127",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:07.921843",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:17.932541",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:17.933768",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2165,
-      "average_accuracy": 1.0018331340101876,
-      "improvement_rate": 0.0018331340101876304,
-      "last_update": "2026-02-03T18:32:17.932541",
-      "learning_throughput": 2.0151646683852595
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:27.943276",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:37.954196",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:47.964638",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:32:57.983699",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:08.012638",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:08.014024",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2170,
-      "average_accuracy": 1.0080502241200677,
-      "improvement_rate": 0.008050224120067787,
-      "last_update": "2026-02-03T18:33:08.012638",
-      "learning_throughput": 2.016227359619353
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:18.032436",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:28.052909",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:38.072219",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:48.082925",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:58.093511",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:33:58.094795",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2175,
-      "average_accuracy": 1.0092128416482735,
-      "improvement_rate": 0.009212841648273462,
-      "last_update": "2026-02-03T18:33:58.093511",
-      "learning_throughput": 2.0167338433228243
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:08.104176",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:18.114710",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:28.125132",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:38.135411",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:48.145661",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:48.147355",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2180,
-      "average_accuracy": 1.0011669868082815,
-      "improvement_rate": 0.0011669868082815524,
-      "last_update": "2026-02-03T18:34:48.145661",
-      "learning_throughput": 2.015407385685445
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:34:58.178558",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:08.196676",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:18.216619",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:28.235333",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:38.255041",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:38.256938",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2185,
-      "average_accuracy": 1.0065197803818335,
-      "improvement_rate": 0.006519780381833477,
-      "last_update": "2026-02-03T18:35:38.255041",
-      "learning_throughput": 2.015270625368312
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:48.272072",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:35:58.282711",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:08.294044",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:18.304772",
-    "type": "learning_step",
-    "data_processed": 12,
-    "feedback_generated": 12,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:28.317329",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:28.318952",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2190,
-      "average_accuracy": 1.006185917699467,
-      "improvement_rate": 0.006185917699466867,
-      "last_update": "2026-02-03T18:36:28.317329",
-      "learning_throughput": 2.015230064440401
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:38.333369",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:48.353885",
-    "type": "learning_step",
-    "data_processed": 22,
-    "feedback_generated": 22,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:36:58.373626",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:08.393346",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:18.413425",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:18.414715",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2195,
-      "average_accuracy": 1.0034153632194764,
-      "improvement_rate": 0.003415363219476479,
-      "last_update": "2026-02-03T18:37:18.413425",
-      "learning_throughput": 2.0145493308985745
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:28.447638",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:38.464759",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:48.478497",
-    "type": "learning_step",
-    "data_processed": 18,
-    "feedback_generated": 18,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:37:58.504774",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:08.515376",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:08.516606",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2200,
-      "average_accuracy": 1.0077028581497534,
-      "improvement_rate": 0.00770285814975328,
-      "last_update": "2026-02-03T18:38:08.515376",
-      "learning_throughput": 2.013326182476981
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:18.526248",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:28.542776",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:38.554412",
-    "type": "learning_step",
-    "data_processed": 26,
-    "feedback_generated": 26,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:48.580592",
-    "type": "learning_step",
-    "data_processed": 30,
-    "feedback_generated": 30,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:58.614147",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:38:58.615631",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2205,
-      "average_accuracy": 1.009580554982188,
-      "improvement_rate": 0.00958055498218793,
-      "last_update": "2026-02-03T18:38:58.614147",
-      "learning_throughput": 2.0150994460938034
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:08.633769",
-    "type": "learning_step",
-    "data_processed": 14,
-    "feedback_generated": 14,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:18.656652",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:28.676422",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:38.687251",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:48.698210",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:48.699461",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2210,
-      "average_accuracy": 1.0096247161859495,
-      "improvement_rate": 0.009624716185949529,
-      "last_update": "2026-02-03T18:39:48.698210",
-      "learning_throughput": 2.015328910598633
-    },
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:39:58.709250",
-    "type": "learning_step",
-    "data_processed": 20,
-    "feedback_generated": 20,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:40:08.720096",
-    "type": "learning_step",
-    "data_processed": 28,
-    "feedback_generated": 28,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:40:18.731286",
-    "type": "learning_step",
-    "data_processed": 24,
-    "feedback_generated": 24,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:40:28.742205",
-    "type": "learning_step",
-    "data_processed": 10,
-    "feedback_generated": 10,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:40:38.753001",
-    "type": "learning_step",
-    "data_processed": 16,
-    "feedback_generated": 16,
-    "status": "completed"
-  },
-  {
-    "timestamp": "2026-02-03T18:40:38.754693",
-    "type": "performance_evaluation",
-    "metrics": {
-      "total_sessions": 2215,
-      "average_accuracy": 1.0026631326152486,
-      "improvement_rate": 0.0026631326152485573,
-      "last_update": "2026-02-03T18:40:38.753001",
-      "learning_throughput": 2.015199143816599
-    },
-    "status": "completed"
-  },
-  {
     "timestamp": "2026-02-03T18:40:48.772329",
     "type": "learning_step",
     "data_processed": 12,
@@ -7832,6 +4462,3371 @@
       "last_update": "2026-02-03T19:59:56.932289",
       "learning_throughput": 2.003810171771349
     },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:06.954778",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:16.980430",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:27.007338",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:37.027545",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:47.061171",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:47.062645",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2695,
+      "average_accuracy": 1.0016112803878259,
+      "improvement_rate": 0.0016112803878259242,
+      "last_update": "2026-02-03T20:00:47.061171",
+      "learning_throughput": 2.003422862491016
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:00:57.072489",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:07.083493",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:17.103042",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:27.114287",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:37.125005",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:37.126490",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2700,
+      "average_accuracy": 1.0090204084857273,
+      "improvement_rate": 0.009020408485727268,
+      "last_update": "2026-02-03T20:01:37.125005",
+      "learning_throughput": 2.002893815348915
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:47.136042",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:01:57.165383",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:07.184655",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:17.207974",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:27.234959",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:27.238008",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2705,
+      "average_accuracy": 1.0067163611714034,
+      "improvement_rate": 0.006716361171403374,
+      "last_update": "2026-02-03T20:02:27.234959",
+      "learning_throughput": 2.001846289175665
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:37.254448",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:47.275479",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:02:57.287096",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:07.298086",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:17.310007",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:17.311597",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2710,
+      "average_accuracy": 1.009646119244626,
+      "improvement_rate": 0.00964611924462598,
+      "last_update": "2026-02-03T20:03:17.310007",
+      "learning_throughput": 2.0016161752329156
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:27.321882",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:37.332884",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:47.343913",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:03:57.368153",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:07.388887",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:07.390525",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2715,
+      "average_accuracy": 1.0074981684699904,
+      "improvement_rate": 0.007498168469990403,
+      "last_update": "2026-02-03T20:04:07.388887",
+      "learning_throughput": 2.0010186845260955
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:17.408051",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:27.434131",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:37.458375",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:47.481464",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:57.492351",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:04:57.493869",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2720,
+      "average_accuracy": 1.001105580446421,
+      "improvement_rate": 0.0011055804464209585,
+      "last_update": "2026-02-03T20:04:57.492351",
+      "learning_throughput": 2.000715397886483
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:07.503519",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:17.514887",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:27.533163",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:37.544049",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:47.554838",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:47.556352",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2725,
+      "average_accuracy": 1.004188856356273,
+      "improvement_rate": 0.004188856356273033,
+      "last_update": "2026-02-03T20:05:47.554838",
+      "learning_throughput": 2.0004895486433
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:05:57.574527",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:07.603353",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:17.625146",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:27.644686",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:37.674624",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:37.676605",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2730,
+      "average_accuracy": 1.003667888948309,
+      "improvement_rate": 0.003667888948309005,
+      "last_update": "2026-02-03T20:06:37.674624",
+      "learning_throughput": 2.000845803553789
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:47.695707",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:06:57.707627",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:07.718554",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:17.729322",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:27.740447",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:27.742880",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2735,
+      "average_accuracy": 1.0014253579432375,
+      "improvement_rate": 0.0014253579432375106,
+      "last_update": "2026-02-03T20:07:27.740447",
+      "learning_throughput": 2.0013507984884327
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:37.779782",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:47.791374",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:07:57.809754",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:07.838153",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:17.856187",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:17.857703",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2740,
+      "average_accuracy": 1.0062932953655623,
+      "improvement_rate": 0.006293295365562403,
+      "last_update": "2026-02-03T20:08:17.856187",
+      "learning_throughput": 2.001048224937159
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:27.882513",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:37.921606",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:47.947896",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:08:57.958803",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:07.970102",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:07.971601",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2745,
+      "average_accuracy": 1.0026568855858686,
+      "improvement_rate": 0.002656885585868733,
+      "last_update": "2026-02-03T20:09:07.970102",
+      "learning_throughput": 2.0011835892072845
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:17.980771",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:27.992758",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:38.004619",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:48.015459",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:58.042329",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:09:58.045048",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2750,
+      "average_accuracy": 1.0089458548892896,
+      "improvement_rate": 0.008945854889289482,
+      "last_update": "2026-02-03T20:09:58.042329",
+      "learning_throughput": 2.0003770262436813
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:08.065970",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:18.086063",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:28.115639",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:38.142244",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:48.153335",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:48.154896",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2755,
+      "average_accuracy": 1.0056226016865615,
+      "improvement_rate": 0.0056226016865614506,
+      "last_update": "2026-02-03T20:10:48.153335",
+      "learning_throughput": 2.000803406037068
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:10:58.165078",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:08.176088",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:18.187492",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:28.209659",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:38.220861",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:38.222360",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2760,
+      "average_accuracy": 1.0020669694055997,
+      "improvement_rate": 0.0020669694055995965,
+      "last_update": "2026-02-03T20:11:38.220861",
+      "learning_throughput": 1.9997836337767492
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:48.232013",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:11:58.251209",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:08.271065",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:18.290716",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:28.310524",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:28.312758",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2765,
+      "average_accuracy": 1.0050948122259524,
+      "improvement_rate": 0.0050948122259523235,
+      "last_update": "2026-02-03T20:12:28.310524",
+      "learning_throughput": 1.9999943167905994
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:38.333125",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:48.344786",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:12:58.355523",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:08.366395",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:18.377776",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:18.379329",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2770,
+      "average_accuracy": 1.0087064267185317,
+      "improvement_rate": 0.0087064267185317,
+      "last_update": "2026-02-03T20:13:18.377776",
+      "learning_throughput": 1.999340339941855
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:28.389095",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:38.405107",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:48.416424",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:13:58.431782",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:08.452415",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:08.454424",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2775,
+      "average_accuracy": 1.0037873804030666,
+      "improvement_rate": 0.0037873804030665536,
+      "last_update": "2026-02-03T20:14:08.452415",
+      "learning_throughput": 1.9994081515723612
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:18.472101",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:28.491775",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:38.519986",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:48.533093",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:58.544026",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:14:58.545567",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2780,
+      "average_accuracy": 1.0098069181076554,
+      "improvement_rate": 0.009806918107655476,
+      "last_update": "2026-02-03T20:14:58.544026",
+      "learning_throughput": 1.9994026330975265
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:08.555401",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:18.566110",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:28.576914",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:38.588598",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:48.599670",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:48.602571",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2785,
+      "average_accuracy": 1.0032948564856186,
+      "improvement_rate": 0.0032948564856186157,
+      "last_update": "2026-02-03T20:15:48.599670",
+      "learning_throughput": 1.9994714515011158
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:15:58.629709",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:08.650900",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:18.684511",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:28.711819",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:38.733370",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:38.734904",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2790,
+      "average_accuracy": 1.0050872574595142,
+      "improvement_rate": 0.005087257459514184,
+      "last_update": "2026-02-03T20:16:38.733370",
+      "learning_throughput": 1.9991763906706024
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:48.744620",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:16:58.755627",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:08.775229",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:18.786433",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:28.797095",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:28.798667",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2795,
+      "average_accuracy": 1.003461730061769,
+      "improvement_rate": 0.0034617300617690054,
+      "last_update": "2026-02-03T20:17:28.797095",
+      "learning_throughput": 1.9991018285023798
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:38.808525",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:48.820182",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:17:58.847477",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:08.871209",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:18.901313",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:18.906867",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2800,
+      "average_accuracy": 1.0069328662166246,
+      "improvement_rate": 0.006932866216624699,
+      "last_update": "2026-02-03T20:18:18.901313",
+      "learning_throughput": 1.999666821472179
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:28.936568",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:38.963005",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:48.973969",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:18:58.984962",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:08.995998",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:08.997501",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2805,
+      "average_accuracy": 1.0056030974722148,
+      "improvement_rate": 0.005603097472214844,
+      "last_update": "2026-02-03T20:19:08.995998",
+      "learning_throughput": 2.000159251551394
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:19.006728",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:29.032541",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:39.043524",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:49.063770",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:59.091763",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:19:59.093765",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2810,
+      "average_accuracy": 1.0052991494314425,
+      "improvement_rate": 0.005299149431442552,
+      "last_update": "2026-02-03T20:19:59.091763",
+      "learning_throughput": 1.999938862688737
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:09.111009",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:19.131703",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:29.152536",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:39.176927",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:49.187933",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:49.189441",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2815,
+      "average_accuracy": 1.008656229676857,
+      "improvement_rate": 0.008656229676857068,
+      "last_update": "2026-02-03T20:20:49.187933",
+      "learning_throughput": 1.999506311366512
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:20:59.199356",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:09.210186",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:19.221509",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:29.232181",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:39.243168",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:39.245474",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2820,
+      "average_accuracy": 1.0064835868280164,
+      "improvement_rate": 0.006483586828016509,
+      "last_update": "2026-02-03T20:21:39.243168",
+      "learning_throughput": 2.0003534325897014
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:49.264994",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:21:59.293359",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:09.314426",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:19.343576",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:29.370670",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:29.372197",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2825,
+      "average_accuracy": 1.0026700629593726,
+      "improvement_rate": 0.002670062959372657,
+      "last_update": "2026-02-03T20:22:29.370670",
+      "learning_throughput": 2.0001316260159276
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:39.381615",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:49.392694",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:22:59.404366",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:09.415914",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:19.428719",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:19.430299",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2830,
+      "average_accuracy": 1.0058990908102456,
+      "improvement_rate": 0.00589909081024569,
+      "last_update": "2026-02-03T20:23:19.428719",
+      "learning_throughput": 1.999280142806299
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:29.439799",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:39.452170",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:49.474232",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:23:59.494180",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:09.513206",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:09.515130",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2835,
+      "average_accuracy": 1.0053075427173914,
+      "improvement_rate": 0.005307542717391485,
+      "last_update": "2026-02-03T20:24:09.513206",
+      "learning_throughput": 1.9986412160772895
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:19.533495",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:29.554642",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:39.584304",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:49.595289",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:59.606431",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:24:59.607956",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2840,
+      "average_accuracy": 1.0089026625088273,
+      "improvement_rate": 0.008902662508827208,
+      "last_update": "2026-02-03T20:24:59.606431",
+      "learning_throughput": 1.9984963574816863
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:09.617228",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:19.628060",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:29.639759",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:39.650869",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:49.661668",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:49.663795",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2845,
+      "average_accuracy": 1.0080509272888383,
+      "improvement_rate": 0.008050927288838227,
+      "last_update": "2026-02-03T20:25:49.661668",
+      "learning_throughput": 1.9987057922137157
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:25:59.680689",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:09.710159",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:19.731296",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:29.751451",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:39.776896",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:39.778539",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2850,
+      "average_accuracy": 1.0030528695083674,
+      "improvement_rate": 0.003052869508367379,
+      "last_update": "2026-02-03T20:26:39.776896",
+      "learning_throughput": 1.9979288846410672
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:49.787791",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:26:59.798676",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:09.809543",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:19.820383",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:29.831031",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:29.832550",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2855,
+      "average_accuracy": 1.0017897934532347,
+      "improvement_rate": 0.0017897934532347475,
+      "last_update": "2026-02-03T20:27:29.831031",
+      "learning_throughput": 1.99799870115809
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:39.842070",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:49.863228",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:27:59.919892",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:09.999909",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:20.010956",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:20.012529",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2860,
+      "average_accuracy": 1.0040808823851568,
+      "improvement_rate": 0.004080882385156713,
+      "last_update": "2026-02-03T20:28:20.010956",
+      "learning_throughput": 1.9979896401062256
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:30.021693",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:40.050880",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:28:50.061631",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:00.083776",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:10.111941",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:10.114072",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2865,
+      "average_accuracy": 1.0068590172530476,
+      "improvement_rate": 0.006859017253047633,
+      "last_update": "2026-02-03T20:29:10.111941",
+      "learning_throughput": 1.9986137057195261
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:20.132146",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:30.143938",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:40.206311",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:29:50.224771",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:00.235774",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:00.237298",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2870,
+      "average_accuracy": 1.0025512300200792,
+      "improvement_rate": 0.0025512300200792853,
+      "last_update": "2026-02-03T20:30:00.235774",
+      "learning_throughput": 1.9981898367987563
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:10.246963",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:20.259286",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:30.270366",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:40.281337",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:50.293494",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:30:50.295248",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2875,
+      "average_accuracy": 1.005651733202616,
+      "improvement_rate": 0.005651733202616065,
+      "last_update": "2026-02-03T20:30:50.293494",
+      "learning_throughput": 1.997772033330808
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:00.307587",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:10.318770",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:20.346412",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:30.388731",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:40.430957",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:40.432523",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2880,
+      "average_accuracy": 1.008111291394838,
+      "improvement_rate": 0.00811129139483811,
+      "last_update": "2026-02-03T20:31:40.430957",
+      "learning_throughput": 1.998113218536706
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:31:50.484936",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:00.514107",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:10.533795",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:20.553500",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:30.566906",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:30.569122",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2885,
+      "average_accuracy": 1.001860869359782,
+      "improvement_rate": 0.0018608693597819768,
+      "last_update": "2026-02-03T20:32:30.566906",
+      "learning_throughput": 1.9970683463940502
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:40.589171",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:32:50.600302",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:00.612437",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:10.623931",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:20.635610",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:20.637270",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2890,
+      "average_accuracy": 1.008094336039129,
+      "improvement_rate": 0.008094336039129017,
+      "last_update": "2026-02-03T20:33:20.635610",
+      "learning_throughput": 1.997483444679808
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:30.648398",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:40.660002",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:33:50.671701",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:00.692340",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:10.710942",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:10.715047",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2895,
+      "average_accuracy": 1.0027958490242022,
+      "improvement_rate": 0.00279584902420212,
+      "last_update": "2026-02-03T20:34:10.710942",
+      "learning_throughput": 1.9971375462999397
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:20.727877",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:30.750586",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:40.770962",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:34:50.802207",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:00.812968",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:00.814540",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2900,
+      "average_accuracy": 1.005271325257894,
+      "improvement_rate": 0.0052713252578940875,
+      "last_update": "2026-02-03T20:35:00.812968",
+      "learning_throughput": 1.9963087716910095
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:10.824051",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:20.834949",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:30.846076",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:40.857196",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:50.868759",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:35:50.870485",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2905,
+      "average_accuracy": 1.0093487011092597,
+      "improvement_rate": 0.009348701109259745,
+      "last_update": "2026-02-03T20:35:50.868759",
+      "learning_throughput": 1.9956235690415172
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:00.882784",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:10.918934",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:20.941913",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:30.961501",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:40.984070",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:40.986237",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2910,
+      "average_accuracy": 1.006963506233858,
+      "improvement_rate": 0.006963506233858067,
+      "last_update": "2026-02-03T20:36:40.984070",
+      "learning_throughput": 1.995691834904311
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:36:51.004167",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:01.014858",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:11.026511",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:21.049843",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:31.060902",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:31.062518",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2915,
+      "average_accuracy": 1.002815526076237,
+      "improvement_rate": 0.002815526076237052,
+      "last_update": "2026-02-03T20:37:31.060902",
+      "learning_throughput": 1.9954883546929103
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:41.072454",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:37:51.083599",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:01.095243",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:11.116525",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:21.137070",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:21.139281",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2920,
+      "average_accuracy": 1.0061701756130819,
+      "improvement_rate": 0.006170175613081927,
+      "last_update": "2026-02-03T20:38:21.137070",
+      "learning_throughput": 1.994601433025809
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:31.160005",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:41.191075",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:38:51.229167",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:01.257896",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:11.281351",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:11.282935",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2925,
+      "average_accuracy": 1.0088872586493811,
+      "improvement_rate": 0.008887258649381079,
+      "last_update": "2026-02-03T20:39:11.281351",
+      "learning_throughput": 1.9947374257356796
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:21.292504",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:31.303526",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:41.315385",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:39:51.326551",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:01.340097",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:01.347003",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2930,
+      "average_accuracy": 1.00112658372461,
+      "improvement_rate": 0.0011265837246098585,
+      "last_update": "2026-02-03T20:40:01.340097",
+      "learning_throughput": 1.9956969866936423
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:11.371247",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:21.404771",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:31.433650",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:41.453807",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:51.473810",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:40:51.475918",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2935,
+      "average_accuracy": 1.008852777382524,
+      "improvement_rate": 0.008852777382523984,
+      "last_update": "2026-02-03T20:40:51.473810",
+      "learning_throughput": 1.9954229538277168
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:01.496843",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:11.524772",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:21.536017",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:31.546847",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:41.558507",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:41.560172",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2940,
+      "average_accuracy": 1.0061365433130747,
+      "improvement_rate": 0.0061365433130746855,
+      "last_update": "2026-02-03T20:41:41.558507",
+      "learning_throughput": 1.9952890821811413
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:41:51.570170",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:01.584332",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:11.629234",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:21.649334",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:31.674713",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:31.676453",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2945,
+      "average_accuracy": 1.0059645052278872,
+      "improvement_rate": 0.005964505227887205,
+      "last_update": "2026-02-03T20:42:31.674713",
+      "learning_throughput": 1.9955605549817756
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:41.694878",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:42:51.717409",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:01.737591",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:11.770238",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:21.788388",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:21.790072",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2950,
+      "average_accuracy": 1.0086085837691696,
+      "improvement_rate": 0.00860858376916958,
+      "last_update": "2026-02-03T20:43:21.788388",
+      "learning_throughput": 1.9950863368731226
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:31.799866",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:41.811622",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:43:51.823928",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:01.840503",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:11.851953",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:11.853635",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2955,
+      "average_accuracy": 1.0081006943870614,
+      "improvement_rate": 0.008100694387061454,
+      "last_update": "2026-02-03T20:44:11.851953",
+      "learning_throughput": 1.9954959985413505
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:21.863550",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:31.874991",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:41.903624",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:44:51.927779",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:01.949869",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:01.952338",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2960,
+      "average_accuracy": 1.003443779439342,
+      "improvement_rate": 0.003443779439342112,
+      "last_update": "2026-02-03T20:45:01.949869",
+      "learning_throughput": 1.9949570607728226
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:11.971366",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:21.991572",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:32.003132",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:42.015104",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:52.041063",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:45:52.042694",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2965,
+      "average_accuracy": 1.0067787137995563,
+      "improvement_rate": 0.0067787137995562454,
+      "last_update": "2026-02-03T20:45:52.041063",
+      "learning_throughput": 1.9960374914908088
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:02.053026",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:12.063906",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:22.075092",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:32.094312",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:42.113591",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:42.115811",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2970,
+      "average_accuracy": 1.008003250875906,
+      "improvement_rate": 0.008003250875905924,
+      "last_update": "2026-02-03T20:46:42.113591",
+      "learning_throughput": 1.995837489242869
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:46:52.135950",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:02.155582",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:12.178771",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:22.199268",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:32.210061",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:32.212113",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2975,
+      "average_accuracy": 1.0014847530618936,
+      "improvement_rate": 0.001484753061893567,
+      "last_update": "2026-02-03T20:47:32.210061",
+      "learning_throughput": 1.99536794543783
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:42.221588",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:47:52.232728",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:02.244226",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:12.255645",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:22.266594",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:22.268234",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2980,
+      "average_accuracy": 1.0066350098104797,
+      "improvement_rate": 0.0066350098104797665,
+      "last_update": "2026-02-03T20:48:22.266594",
+      "learning_throughput": 1.9948356093360753
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:32.278451",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:42.312093",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:48:52.332212",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:02.352916",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:12.372431",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:12.374011",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2985,
+      "average_accuracy": 1.0017285705591061,
+      "improvement_rate": 0.0017285705591060293,
+      "last_update": "2026-02-03T20:49:12.372431",
+      "learning_throughput": 1.995640313649818
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:22.392119",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:32.403164",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:42.414893",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:49:52.426357",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:02.437802",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:02.439418",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2990,
+      "average_accuracy": 1.0053310855017132,
+      "improvement_rate": 0.00533108550171326,
+      "last_update": "2026-02-03T20:50:02.437802",
+      "learning_throughput": 1.9956432377373603
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:12.448789",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:22.461314",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:32.472901",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:42.493777",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:52.524989",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:50:52.526720",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 2995,
+      "average_accuracy": 1.0019065929358695,
+      "improvement_rate": 0.0019065929358694916,
+      "last_update": "2026-02-03T20:50:52.524989",
+      "learning_throughput": 1.994910958065897
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:02.546850",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:12.573261",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:22.603112",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:32.623080",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:42.650487",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:42.652854",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3000,
+      "average_accuracy": 1.0021154073713787,
+      "improvement_rate": 0.002115407371378643,
+      "last_update": "2026-02-03T20:51:42.650487",
+      "learning_throughput": 1.9949776868917732
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:51:52.666324",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:02.677241",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:12.688333",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:22.701172",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:32.712165",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:32.714001",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3005,
+      "average_accuracy": 1.0027247785594198,
+      "improvement_rate": 0.0027247785594198175,
+      "last_update": "2026-02-03T20:52:32.712165",
+      "learning_throughput": 1.9953808340444001
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:42.728040",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:52:52.739698",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:02.766792",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:12.786883",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:22.808715",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:22.811028",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3010,
+      "average_accuracy": 1.0059557425127996,
+      "improvement_rate": 0.0059557425127995285,
+      "last_update": "2026-02-03T20:53:22.808715",
+      "learning_throughput": 1.9953157340487409
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:32.831376",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:42.851148",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:53:52.862608",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:02.873671",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:12.887541",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:12.889192",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3015,
+      "average_accuracy": 1.0037866620342077,
+      "improvement_rate": 0.00378666203420778,
+      "last_update": "2026-02-03T20:54:12.887541",
+      "learning_throughput": 1.9954508048494446
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:22.898643",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:32.909882",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:42.921474",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:54:52.932767",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:02.965244",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:02.967465",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3020,
+      "average_accuracy": 1.006047607975916,
+      "improvement_rate": 0.0060476079759160355,
+      "last_update": "2026-02-03T20:55:02.965244",
+      "learning_throughput": 1.99525474594123
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:12.986785",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:23.006715",
+    "type": "learning_step",
+    "data_processed": 16,
+    "feedback_generated": 16,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:33.029474",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:43.049413",
+    "type": "learning_step",
+    "data_processed": 14,
+    "feedback_generated": 14,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:53.060859",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:55:53.062517",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3025,
+      "average_accuracy": 1.004862703272524,
+      "improvement_rate": 0.004862703272523821,
+      "last_update": "2026-02-03T20:55:53.060859",
+      "learning_throughput": 1.9950581554248208
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:03.072171",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:13.083033",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:23.094106",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:33.104843",
+    "type": "learning_step",
+    "data_processed": 30,
+    "feedback_generated": 30,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:43.116192",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:43.117971",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3030,
+      "average_accuracy": 1.0059758743097813,
+      "improvement_rate": 0.005975874309781322,
+      "last_update": "2026-02-03T20:56:43.116192",
+      "learning_throughput": 1.994732997584177
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:56:53.128387",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:03.149531",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:13.205782",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:23.266892",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:33.317912",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:33.319712",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3035,
+      "average_accuracy": 1.005313095298003,
+      "improvement_rate": 0.005313095298002849,
+      "last_update": "2026-02-03T20:57:33.317912",
+      "learning_throughput": 1.9950575415762923
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:43.329539",
+    "type": "learning_step",
+    "data_processed": 10,
+    "feedback_generated": 10,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:57:53.341078",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:03.365914",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:13.386020",
+    "type": "learning_step",
+    "data_processed": 22,
+    "feedback_generated": 22,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:23.397558",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:23.400903",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3040,
+      "average_accuracy": 1.0033734594367636,
+      "improvement_rate": 0.003373459436763683,
+      "last_update": "2026-02-03T20:58:23.397558",
+      "learning_throughput": 1.994468999882198
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:33.416538",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:43.437777",
+    "type": "learning_step",
+    "data_processed": 20,
+    "feedback_generated": 20,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:58:53.465544",
+    "type": "learning_step",
+    "data_processed": 26,
+    "feedback_generated": 26,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:03.485459",
+    "type": "learning_step",
+    "data_processed": 24,
+    "feedback_generated": 24,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:13.505273",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:13.506916",
+    "type": "performance_evaluation",
+    "metrics": {
+      "total_sessions": 3045,
+      "average_accuracy": 1.0058894260996722,
+      "improvement_rate": 0.005889426099672334,
+      "last_update": "2026-02-03T20:59:13.505273",
+      "learning_throughput": 1.9947990623916398
+    },
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:23.516025",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:33.526890",
+    "type": "learning_step",
+    "data_processed": 18,
+    "feedback_generated": 18,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:43.542527",
+    "type": "learning_step",
+    "data_processed": 28,
+    "feedback_generated": 28,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-02-03T20:59:53.554411",
+    "type": "learning_step",
+    "data_processed": 12,
+    "feedback_generated": 12,
     "status": "completed"
   }
 ]
