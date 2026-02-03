@@ -1,0 +1,1678 @@
+[
+  {
+    "timestamp": "2026-02-03T23:28:45.674078",
+    "iteration_id": 0,
+    "input_sample": "打入的时机和方向都十分精准，展现了深厚的实战功底。",
+    "analysis_result": "分析：打入的时机和方向都十分精准，展现了深厚的实战功底。。基于当前局面，这步棋的价值评分为0.88，在专业比赛中出现频率约为86%。",
+    "quality_score": 0.181736604759121,
+    "improvement_record": {
+      "iteration_id": 1,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "打入的时机和方向都十分精准，展现了深厚的实战功底。",
+        "complexity": 0.6157728838031977
+      },
+      "analysis_result": {
+        "confidence": 0.7755864582599306,
+        "analysis_quality": 0.7149412078906581,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.7,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:28:45.674069"
+    },
+    "engine_state": {
+      "accuracy": 0.181736604759121,
+      "iterations": 1
+    },
+    "improvement_state": {
+      "accuracy": 0.7,
+      "iterations": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:29:21.673826",
+    "iteration_id": 1,
+    "input_sample": "宇宙流与重战流的对决，武宫正树以其独特的中央作战理论闻名。",
+    "analysis_result": "分析：宇宙流与重战流的对决，武宫正树以其独特的中央作战理论闻名。。基于当前局面，这步棋的价值评分为0.87，在专业比赛中出现频率约为75%。",
+    "quality_score": 0.23392498962443822,
+    "improvement_record": {
+      "iteration_id": 2,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "宇宙流与重战流的对决，武宫正树以其独特的中央作战理论闻名。",
+        "complexity": 0.8510426471579667
+      },
+      "analysis_result": {
+        "confidence": 0.6227167942211014,
+        "analysis_quality": 0.6863119726814426,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:29:21.673802"
+    },
+    "engine_state": {
+      "accuracy": 0.2078307971917796,
+      "iterations": 2
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 2
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:29:57.673880",
+    "iteration_id": 2,
+    "input_sample": "浅消战术，不求全得，而是以最小代价换取最大利益。",
+    "analysis_result": "分析：浅消战术，不求全得，而是以最小代价换取最大利益。。基于当前局面，这步棋的价值评分为0.84，在专业比赛中出现频率约为80%。",
+    "quality_score": 0.19582250564435455,
+    "improvement_record": {
+      "iteration_id": 3,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "浅消战术，不求全得，而是以最小代价换取最大利益。",
+        "complexity": 0.5230901359906535
+      },
+      "analysis_result": {
+        "confidence": 0.74914410324001,
+        "analysis_quality": 0.5466449911407806,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:29:57.673860"
+    },
+    "engine_state": {
+      "accuracy": 0.2038280333426379,
+      "iterations": 3
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 3
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:30:33.673951",
+    "iteration_id": 3,
+    "input_sample": "激烈的对杀开始了，双方都面临巨大的考验。",
+    "analysis_result": "分析：激烈的对杀开始了，双方都面临巨大的考验。。基于当前局面，这步棋的价值评分为0.72，在专业比赛中出现频率约为87%。",
+    "quality_score": 0.26123826304409786,
+    "improvement_record": {
+      "iteration_id": 4,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "激烈的对杀开始了，双方都面临巨大的考验。",
+        "complexity": 0.896447537150872
+      },
+      "analysis_result": {
+        "confidence": 0.738756785984521,
+        "analysis_quality": 0.8522819098544494,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:30:33.673932"
+    },
+    "engine_state": {
+      "accuracy": 0.21818059076800292,
+      "iterations": 4
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 4
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:31:09.674088",
+    "iteration_id": 4,
+    "input_sample": "局面开阔，双方都有施展空间。",
+    "analysis_result": "分析：局面开阔，双方都有施展空间。。基于当前局面，这步棋的价值评分为0.81，在专业比赛中出现频率约为81%。",
+    "quality_score": 0.26353487593475644,
+    "improvement_record": {
+      "iteration_id": 5,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "局面开阔，双方都有施展空间。",
+        "complexity": 0.8546664042288055
+      },
+      "analysis_result": {
+        "confidence": 0.8944938963501039,
+        "analysis_quality": 0.5621312464083914,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:31:09.674060"
+    },
+    "engine_state": {
+      "accuracy": 0.2272514478013536,
+      "iterations": 5
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 5
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:31:45.674201",
+    "iteration_id": 5,
+    "input_sample": "此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。",
+    "analysis_result": "分析：此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。。基于当前局面，这步棋的价值评分为0.84，在专业比赛中出现频率约为67%。",
+    "quality_score": 0.2522807376236405,
+    "improvement_record": {
+      "iteration_id": 6,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。",
+        "complexity": 0.937982058495365
+      },
+      "analysis_result": {
+        "confidence": 0.8164187704751806,
+        "analysis_quality": 0.8280633144006766,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:31:45.674168"
+    },
+    "engine_state": {
+      "accuracy": 0.2314229961050681,
+      "iterations": 6
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 6
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:32:21.674309",
+    "iteration_id": 6,
+    "input_sample": "体现了敏锐的嗅觉，总能找到最佳的着手。",
+    "analysis_result": "分析：体现了敏锐的嗅觉，总能找到最佳的着手。。基于当前局面，这步棋的价值评分为0.81，在专业比赛中出现频率约为69%。",
+    "quality_score": 0.23533293919024945,
+    "improvement_record": {
+      "iteration_id": 7,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "体现了敏锐的嗅觉，总能找到最佳的着手。",
+        "complexity": 0.9540922595015673
+      },
+      "analysis_result": {
+        "confidence": 0.8562410120895818,
+        "analysis_quality": 0.8665436976122763,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:32:21.674279"
+    },
+    "engine_state": {
+      "accuracy": 0.23198155940295115,
+      "iterations": 7
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 7
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:32:57.674451",
+    "iteration_id": 7,
+    "input_sample": "这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。",
+    "analysis_result": "分析：这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。。基于当前局面，这步棋的价值评分为0.93，在专业比赛中出现频率约为85%。",
+    "quality_score": 0.31045733533426456,
+    "improvement_record": {
+      "iteration_id": 8,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。",
+        "complexity": 0.6001459722439605
+      },
+      "analysis_result": {
+        "confidence": 0.6969716601882955,
+        "analysis_quality": 0.6704717883012846,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6317499999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:32:57.674423"
+    },
+    "engine_state": {
+      "accuracy": 0.24179103139436534,
+      "iterations": 8
+    },
+    "improvement_state": {
+      "accuracy": 0.6317499999999999,
+      "iterations": 8
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:33:33.674419",
+    "iteration_id": 8,
+    "input_sample": "轻灵飘逸的马氏棋风展现得淋漓尽致，展现了独特的行棋风格。",
+    "analysis_result": "分析：轻灵飘逸的马氏棋风展现得淋漓尽致，展现了独特的行棋风格。。基于当前局面，这步棋的价值评分为0.85，在专业比赛中出现频率约为72%。",
+    "quality_score": 0.18029822264798828,
+    "improvement_record": {
+      "iteration_id": 9,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "轻灵飘逸的马氏棋风展现得淋漓尽致，展现了独特的行棋风格。",
+        "complexity": 0.9281126956724353
+      },
+      "analysis_result": {
+        "confidence": 0.8549681736916015,
+        "analysis_quality": 0.5755944766252304,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6317499999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:33:33.674398"
+    },
+    "engine_state": {
+      "accuracy": 0.23495849708921235,
+      "iterations": 9
+    },
+    "improvement_state": {
+      "accuracy": 0.6317499999999999,
+      "iterations": 9
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:34:09.674512",
+    "iteration_id": 9,
+    "input_sample": "灵活多变，不拘一格的下法令人惊叹。",
+    "analysis_result": "分析：灵活多变，不拘一格的下法令人惊叹。。基于当前局面，这步棋的价值评分为0.72，在专业比赛中出现频率约为72%。",
+    "quality_score": 0.25902248808951084,
+    "improvement_record": {
+      "iteration_id": 10,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "灵活多变，不拘一格的下法令人惊叹。",
+        "complexity": 0.6960420024170169
+      },
+      "analysis_result": {
+        "confidence": 0.7524252664120255,
+        "analysis_quality": 0.7911423843805939,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6317499999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:34:09.674493"
+    },
+    "engine_state": {
+      "accuracy": 0.2373648961892422,
+      "iterations": 10
+    },
+    "improvement_state": {
+      "accuracy": 0.6317499999999999,
+      "iterations": 10
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:34:45.674619",
+    "iteration_id": 10,
+    "input_sample": "弃子战术，战略性撤退以换取更大利益。",
+    "analysis_result": "分析：弃子战术，战略性撤退以换取更大利益。。基于当前局面，这步棋的价值评分为0.87，在专业比赛中出现频率约为60%。",
+    "quality_score": 0.1902517017664446,
+    "improvement_record": {
+      "iteration_id": 11,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "弃子战术，战略性撤退以换取更大利益。",
+        "complexity": 0.6198575167098437
+      },
+      "analysis_result": {
+        "confidence": 0.6260953358446335,
+        "analysis_quality": 0.9454500507865004,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:34:45.674599"
+    },
+    "engine_state": {
+      "accuracy": 0.23821640588997456,
+      "iterations": 11
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 11
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:35:21.674699",
+    "iteration_id": 11,
+    "input_sample": "二子头必扳，基本棋理不容违背。",
+    "analysis_result": "分析：二子头必扳，基本棋理不容违背。。基于当前局面，这步棋的价值评分为0.82，在专业比赛中出现频率约为84%。",
+    "quality_score": 0.27522084567366417,
+    "improvement_record": {
+      "iteration_id": 12,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "二子头必扳，基本棋理不容违背。",
+        "complexity": 0.912191389900225
+      },
+      "analysis_result": {
+        "confidence": 0.9314651110757837,
+        "analysis_quality": 0.9978274822519778,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:35:21.674682"
+    },
+    "engine_state": {
+      "accuracy": 0.2423459914948971,
+      "iterations": 12
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 12
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:35:57.674801",
+    "iteration_id": 12,
+    "input_sample": "关键时刻，考验棋手的心理素质。",
+    "analysis_result": "分析：关键时刻，考验棋手的心理素质。。基于当前局面，这步棋的价值评分为0.86，在专业比赛中出现频率约为70%。",
+    "quality_score": 0.18481815023841094,
+    "improvement_record": {
+      "iteration_id": 13,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "关键时刻，考验棋手的心理素质。",
+        "complexity": 0.739091529336984
+      },
+      "analysis_result": {
+        "confidence": 0.8781376323832073,
+        "analysis_quality": 0.5612661815623605,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:35:57.674780"
+    },
+    "engine_state": {
+      "accuracy": 0.24124555595430275,
+      "iterations": 13
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 13
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:36:33.674887",
+    "iteration_id": 13,
+    "input_sample": "这步棋体现了'金角银边草肚皮'的传统智慧，先占角部要地。",
+    "analysis_result": "分析：这步棋体现了'金角银边草肚皮'的传统智慧，先占角部要地。。基于当前局面，这步棋的价值评分为0.92，在专业比赛中出现频率约为60%。",
+    "quality_score": 0.1833162703685808,
+    "improvement_record": {
+      "iteration_id": 14,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这步棋体现了'金角银边草肚皮'的传统智慧，先占角部要地。",
+        "complexity": 0.7622682107198416
+      },
+      "analysis_result": {
+        "confidence": 0.7383529674728634,
+        "analysis_quality": 0.9250982541357698,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:36:33.674868"
+    },
+    "engine_state": {
+      "accuracy": 0.23345335668675107,
+      "iterations": 14
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 14
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:37:09.675096",
+    "iteration_id": 14,
+    "input_sample": "胀牯牛，特殊的死活技巧，需要精确的计算。",
+    "analysis_result": "分析：胀牯牛，特殊的死活技巧，需要精确的计算。。基于当前局面，这步棋的价值评分为0.84，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.23785594975482505,
+    "improvement_record": {
+      "iteration_id": 15,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "胀牯牛，特殊的死活技巧，需要精确的计算。",
+        "complexity": 0.6633906254328588
+      },
+      "analysis_result": {
+        "confidence": 0.7268340191726435,
+        "analysis_quality": 0.7810847893507826,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:37:09.675067"
+    },
+    "engine_state": {
+      "accuracy": 0.23088546406875793,
+      "iterations": 15
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 15
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:37:45.675115",
+    "iteration_id": 15,
+    "input_sample": "决定性的一步，奠定了胜局的基础。",
+    "analysis_result": "分析：决定性的一步，奠定了胜局的基础。。基于当前局面，这步棋的价值评分为0.83，在专业比赛中出现频率约为83%。",
+    "quality_score": 0.23818382557073273,
+    "improvement_record": {
+      "iteration_id": 16,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "决定性的一步，奠定了胜局的基础。",
+        "complexity": 0.6852859142117343
+      },
+      "analysis_result": {
+        "confidence": 0.7746644894659487,
+        "analysis_quality": 0.8767932620934834,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:37:45.675087"
+    },
+    "engine_state": {
+      "accuracy": 0.22947577286346715,
+      "iterations": 16
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 16
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:38:21.675630",
+    "iteration_id": 16,
+    "input_sample": "稳健的棋风，步步为营，不给对手可乘之机。",
+    "analysis_result": "分析：稳健的棋风，步步为营，不给对手可乘之机。。基于当前局面，这步棋的价值评分为0.82，在专业比赛中出现频率约为60%。",
+    "quality_score": 0.24957034420543753,
+    "improvement_record": {
+      "iteration_id": 17,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "稳健的棋风，步步为营，不给对手可乘之机。",
+        "complexity": 0.9172318119414584
+      },
+      "analysis_result": {
+        "confidence": 0.601081096789905,
+        "analysis_quality": 0.5193122601390567,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5701543749999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:38:21.675605"
+    },
+    "engine_state": {
+      "accuracy": 0.23089951336498596,
+      "iterations": 17
+    },
+    "improvement_state": {
+      "accuracy": 0.5701543749999999,
+      "iterations": 17
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:38:57.677037",
+    "iteration_id": 17,
+    "input_sample": "稳扎稳打，虽然优势不大但始终保持领先。",
+    "analysis_result": "分析：稳扎稳打，虽然优势不大但始终保持领先。。基于当前局面，这步棋的价值评分为0.72，在专业比赛中出现频率约为72%。",
+    "quality_score": 0.2332420285009993,
+    "improvement_record": {
+      "iteration_id": 18,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "稳扎稳打，虽然优势不大但始终保持领先。",
+        "complexity": 0.6187463461100335
+      },
+      "analysis_result": {
+        "confidence": 0.9153200107290779,
+        "analysis_quality": 0.9681925714956908,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5701543749999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:38:57.677010"
+    },
+    "engine_state": {
+      "accuracy": 0.22317798268165942,
+      "iterations": 18
+    },
+    "improvement_state": {
+      "accuracy": 0.5701543749999999,
+      "iterations": 18
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:39:33.677054",
+    "iteration_id": 18,
+    "input_sample": "针锋相对，不允许对手轻松发展。",
+    "analysis_result": "分析：针锋相对，不允许对手轻松发展。。基于当前局面，这步棋的价值评分为0.88，在专业比赛中出现频率约为62%。",
+    "quality_score": 0.1927089084297309,
+    "improvement_record": {
+      "iteration_id": 19,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "针锋相对，不允许对手轻松发展。",
+        "complexity": 0.6010763271328863
+      },
+      "analysis_result": {
+        "confidence": 0.8035854416707129,
+        "analysis_quality": 0.9260896794100255,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5701543749999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:39:33.677034"
+    },
+    "engine_state": {
+      "accuracy": 0.2244190512598337,
+      "iterations": 19
+    },
+    "improvement_state": {
+      "accuracy": 0.5701543749999999,
+      "iterations": 19
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:40:09.677158",
+    "iteration_id": 19,
+    "input_sample": "此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。",
+    "analysis_result": "分析：此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。。基于当前局面，这步棋的价值评分为0.89，在专业比赛中出现频率约为83%。",
+    "quality_score": 0.31028702385751994,
+    "improvement_record": {
+      "iteration_id": 20,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此手为天元，意在掌控全局。宇宙流之精髓在于平衡，无论黑白，皆求天地人和。",
+        "complexity": 0.6997256668902563
+      },
+      "analysis_result": {
+        "confidence": 0.6256005729052633,
+        "analysis_quality": 0.7246819732366234,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:40:09.677139"
+    },
+    "engine_state": {
+      "accuracy": 0.2295455048366346,
+      "iterations": 20
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 20
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:40:45.677228",
+    "iteration_id": 20,
+    "input_sample": "在不利局面下展现出顽强的斗志，多次逆转局势，展现了强大的心理素质。",
+    "analysis_result": "分析：在不利局面下展现出顽强的斗志，多次逆转局势，展现了强大的心理素质。。基于当前局面，这步棋的价值评分为0.70，在专业比赛中出现频率约为84%。",
+    "quality_score": 0.2203795290966393,
+    "improvement_record": {
+      "iteration_id": 21,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "在不利局面下展现出顽强的斗志，多次逆转局势，展现了强大的心理素质。",
+        "complexity": 0.6444356560255737
+      },
+      "analysis_result": {
+        "confidence": 0.8052368767874984,
+        "analysis_quality": 0.9674254903883573,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:40:45.677209"
+    },
+    "engine_state": {
+      "accuracy": 0.23255828756965408,
+      "iterations": 21
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 21
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:41:21.677340",
+    "iteration_id": 21,
+    "input_sample": "这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。",
+    "analysis_result": "分析：这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。。基于当前局面，这步棋的价值评分为0.83，在专业比赛中出现频率约为84%。",
+    "quality_score": 0.28000766463972376,
+    "improvement_record": {
+      "iteration_id": 22,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这局棋开启了新布局的时代，双方都不拘泥于传统角部定式，直接向中央发展，体现了对围棋本质的深刻理解。",
+        "complexity": 0.6725272038964649
+      },
+      "analysis_result": {
+        "confidence": 0.6223855834121905,
+        "analysis_quality": 0.8284248081967436,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5145643234374998,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:41:21.677319"
+    },
+    "engine_state": {
+      "accuracy": 0.23303696946626004,
+      "iterations": 22
+    },
+    "improvement_state": {
+      "accuracy": 0.5145643234374998,
+      "iterations": 22
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:41:57.677733",
+    "iteration_id": 22,
+    "input_sample": "这是一场世纪对决，双方都拿出了最高水准。",
+    "analysis_result": "分析：这是一场世纪对决，双方都拿出了最高水准。。基于当前局面，这步棋的价值评分为0.87，在专业比赛中出现频率约为83%。",
+    "quality_score": 0.2680122371558852,
+    "improvement_record": {
+      "iteration_id": 23,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这是一场世纪对决，双方都拿出了最高水准。",
+        "complexity": 0.84667525664939
+      },
+      "analysis_result": {
+        "confidence": 0.6046171846772002,
+        "analysis_quality": 0.6046991139169391,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.48883610726562476,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:41:57.677715"
+    },
+    "engine_state": {
+      "accuracy": 0.24135637815800742,
+      "iterations": 23
+    },
+    "improvement_state": {
+      "accuracy": 0.48883610726562476,
+      "iterations": 23
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:42:33.677843",
+    "iteration_id": 23,
+    "input_sample": "人机大战的经典对局，人类智慧与人工智能的巅峰对决。",
+    "analysis_result": "分析：人机大战的经典对局，人类智慧与人工智能的巅峰对决。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为63%。",
+    "quality_score": 0.26800599039977463,
+    "improvement_record": {
+      "iteration_id": 24,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "人机大战的经典对局，人类智慧与人工智能的巅峰对决。",
+        "complexity": 0.7536698473133705
+      },
+      "analysis_result": {
+        "confidence": 0.7642367676300899,
+        "analysis_quality": 0.8855597228116432,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.48883610726562476,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:42:33.677820"
+    },
+    "engine_state": {
+      "accuracy": 0.2498253501611268,
+      "iterations": 24
+    },
+    "improvement_state": {
+      "accuracy": 0.48883610726562476,
+      "iterations": 24
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:43:09.677966",
+    "iteration_id": 24,
+    "input_sample": "体现了竞技体育的精神，虽败犹荣。",
+    "analysis_result": "分析：体现了竞技体育的精神，虽败犹荣。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为85%。",
+    "quality_score": 0.26644444961310576,
+    "improvement_record": {
+      "iteration_id": 25,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "体现了竞技体育的精神，虽败犹荣。",
+        "complexity": 0.8876723150413033
+      },
+      "analysis_result": {
+        "confidence": 0.8153026821899476,
+        "analysis_quality": 0.6938361756150152,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.48883610726562476,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:43:09.677946"
+    },
+    "engine_state": {
+      "accuracy": 0.2526842001469549,
+      "iterations": 25
+    },
+    "improvement_state": {
+      "accuracy": 0.48883610726562476,
+      "iterations": 25
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:43:45.677972",
+    "iteration_id": 25,
+    "input_sample": "弃子战术，战略性撤退以换取更大利益。",
+    "analysis_result": "分析：弃子战术，战略性撤退以换取更大利益。。基于当前局面，这步棋的价值评分为0.80，在专业比赛中出现频率约为63%。",
+    "quality_score": 0.21563935409081353,
+    "improvement_record": {
+      "iteration_id": 26,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "弃子战术，战略性撤退以换取更大利益。",
+        "complexity": 0.5787572481440326
+      },
+      "analysis_result": {
+        "confidence": 0.668782587207015,
+        "analysis_quality": 0.9610395947962405,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:43:45.677953"
+    },
+    "engine_state": {
+      "accuracy": 0.250429752998963,
+      "iterations": 26
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 26
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:44:21.678053",
+    "iteration_id": 26,
+    "input_sample": "AI时代的围棋理念体现，效率与精确性并重，展现了新生代棋手的特点。",
+    "analysis_result": "分析：AI时代的围棋理念体现，效率与精确性并重，展现了新生代棋手的特点。。基于当前局面，这步棋的价值评分为0.79，在专业比赛中出现频率约为81%。",
+    "quality_score": 0.23133173772971377,
+    "improvement_record": {
+      "iteration_id": 27,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "AI时代的围棋理念体现，效率与精确性并重，展现了新生代棋手的特点。",
+        "complexity": 0.8134772847791795
+      },
+      "analysis_result": {
+        "confidence": 0.737065877923942,
+        "analysis_quality": 0.5541691666220896,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:44:21.678034"
+    },
+    "engine_state": {
+      "accuracy": 0.2486058923513906,
+      "iterations": 27
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 27
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:44:57.678243",
+    "iteration_id": 27,
+    "input_sample": "攻守兼备，既不放过进攻机会又注意自身的安全。",
+    "analysis_result": "分析：攻守兼备，既不放过进攻机会又注意自身的安全。。基于当前局面，这步棋的价值评分为0.92，在专业比赛中出现频率约为88%。",
+    "quality_score": 0.23774807480285945,
+    "improvement_record": {
+      "iteration_id": 28,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "攻守兼备，既不放过进攻机会又注意自身的安全。",
+        "complexity": 0.7977981296764642
+      },
+      "analysis_result": {
+        "confidence": 0.9016620617914117,
+        "analysis_quality": 0.6402058268207971,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:44:57.678223"
+    },
+    "engine_state": {
+      "accuracy": 0.24905649698157664,
+      "iterations": 28
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 28
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:45:33.678363",
+    "iteration_id": 28,
+    "input_sample": "体现了竞技体育的精神，虽败犹荣。",
+    "analysis_result": "分析：体现了竞技体育的精神，虽败犹荣。。基于当前局面，这步棋的价值评分为0.72，在专业比赛中出现频率约为70%。",
+    "quality_score": 0.23270965119501996,
+    "improvement_record": {
+      "iteration_id": 29,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "体现了竞技体育的精神，虽败犹荣。",
+        "complexity": 0.6264751135602056
+      },
+      "analysis_result": {
+        "confidence": 0.8073279527355481,
+        "analysis_quality": 0.9496997064696318,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:45:33.678333"
+    },
+    "engine_state": {
+      "accuracy": 0.25305657125810554,
+      "iterations": 29
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 29
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:46:09.678354",
+    "iteration_id": 29,
+    "input_sample": "避实就虚，避开对手的强点寻找薄弱环节。",
+    "analysis_result": "分析：避实就虚，避开对手的强点寻找薄弱环节。。基于当前局面，这步棋的价值评分为0.79，在专业比赛中出现频率约为83%。",
+    "quality_score": 0.22731574529851928,
+    "improvement_record": {
+      "iteration_id": 30,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "避实就虚，避开对手的强点寻找薄弱环节。",
+        "complexity": 0.8807056901336019
+      },
+      "analysis_result": {
+        "confidence": 0.7249257339492877,
+        "analysis_quality": 0.515370011436928,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:46:09.678336"
+    },
+    "engine_state": {
+      "accuracy": 0.24475944340220548,
+      "iterations": 30
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 30
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:46:45.678515",
+    "iteration_id": 30,
+    "input_sample": "体现了坚韧的意志，即使劣势也不放弃。",
+    "analysis_result": "分析：体现了坚韧的意志，即使劣势也不放弃。。基于当前局面，这步棋的价值评分为0.86，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.18355897513261438,
+    "improvement_record": {
+      "iteration_id": 31,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "体现了坚韧的意志，即使劣势也不放弃。",
+        "complexity": 0.51071093353541
+      },
+      "analysis_result": {
+        "confidence": 0.8415473831393672,
+        "analysis_quality": 0.9769724773612826,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:46:45.678489"
+    },
+    "engine_state": {
+      "accuracy": 0.24107738800580297,
+      "iterations": 31
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 31
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:47:21.678552",
+    "iteration_id": 31,
+    "input_sample": "复合官子，一步棋包含多个官子价值。",
+    "analysis_result": "分析：复合官子，一步棋包含多个官子价值。。基于当前局面，这步棋的价值评分为0.82，在专业比赛中出现频率约为78%。",
+    "quality_score": 0.2911144842671166,
+    "improvement_record": {
+      "iteration_id": 32,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "复合官子，一步棋包含多个官子价值。",
+        "complexity": 0.5386190391820183
+      },
+      "analysis_result": {
+        "confidence": 0.6889897811352209,
+        "analysis_quality": 0.6562179401776835,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:47:21.678532"
+    },
+    "engine_state": {
+      "accuracy": 0.24218806996854228,
+      "iterations": 32
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 32
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:47:57.678631",
+    "iteration_id": 32,
+    "input_sample": "AI时代改变了我们对围棋的认知。这手棋在传统观念中难以理解，但在现代围棋理论下却显得合理。",
+    "analysis_result": "分析：AI时代改变了我们对围棋的认知。这手棋在传统观念中难以理解，但在现代围棋理论下却显得合理。。基于当前局面，这步棋的价值评分为0.89，在专业比赛中出现频率约为74%。",
+    "quality_score": 0.258087706216104,
+    "improvement_record": {
+      "iteration_id": 33,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "AI时代改变了我们对围棋的认知。这手棋在传统观念中难以理解，但在现代围棋理论下却显得合理。",
+        "complexity": 0.8151542898538497
+      },
+      "analysis_result": {
+        "confidence": 0.7478804945601487,
+        "analysis_quality": 0.8088910223923025,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:47:57.678611"
+    },
+    "engine_state": {
+      "accuracy": 0.24119561687456414,
+      "iterations": 33
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 33
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:48:33.678827",
+    "iteration_id": 33,
+    "input_sample": "侵消战术运用得当，有效地削弱了对方的厚势。",
+    "analysis_result": "分析：侵消战术运用得当，有效地削弱了对方的厚势。。基于当前局面，这步棋的价值评分为0.80，在专业比赛中出现频率约为60%。",
+    "quality_score": 0.1850090691151384,
+    "improvement_record": {
+      "iteration_id": 34,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "侵消战术运用得当，有效地削弱了对方的厚势。",
+        "complexity": 0.8604550530084725
+      },
+      "analysis_result": {
+        "confidence": 0.8183912459102872,
+        "analysis_quality": 0.9196375396719612,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:48:33.678801"
+    },
+    "engine_state": {
+      "accuracy": 0.23289592474610052,
+      "iterations": 34
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 34
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:49:09.678862",
+    "iteration_id": 34,
+    "input_sample": "稳扎稳打，虽然优势不大但始终保持领先。",
+    "analysis_result": "分析：稳扎稳打，虽然优势不大但始终保持领先。。基于当前局面，这步棋的价值评分为0.78，在专业比赛中出现频率约为69%。",
+    "quality_score": 0.23364894430072813,
+    "improvement_record": {
+      "iteration_id": 35,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "稳扎稳打，虽然优势不大但始终保持领先。",
+        "complexity": 0.93376431850976
+      },
+      "analysis_result": {
+        "confidence": 0.8681406566231675,
+        "analysis_quality": 0.5383506785716481,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:49:09.678842"
+    },
+    "engine_state": {
+      "accuracy": 0.22961637421486275,
+      "iterations": 35
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 35
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:49:45.679005",
+    "iteration_id": 35,
+    "input_sample": "扑的妙用，利用劫争的特殊性质化解危机。",
+    "analysis_result": "分析：扑的妙用，利用劫争的特殊性质化解危机。。基于当前局面，这步棋的价值评分为0.72，在专业比赛中出现频率约为67%。",
+    "quality_score": 0.22582332229855762,
+    "improvement_record": {
+      "iteration_id": 36,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "扑的妙用，利用劫争的特殊性质化解危机。",
+        "complexity": 0.7661408877573357
+      },
+      "analysis_result": {
+        "confidence": 0.9063959622300328,
+        "analysis_quality": 0.629441832741747,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:49:45.678978"
+    },
+    "engine_state": {
+      "accuracy": 0.23063477103563718,
+      "iterations": 36
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 36
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:50:21.679053",
+    "iteration_id": 36,
+    "input_sample": "缠绕攻击，不给对手喘息的机会。",
+    "analysis_result": "分析：缠绕攻击，不给对手喘息的机会。。基于当前局面，这步棋的价值评分为0.83，在专业比赛中出现频率约为89%。",
+    "quality_score": 0.20845840906992827,
+    "improvement_record": {
+      "iteration_id": 37,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "缠绕攻击，不给对手喘息的机会。",
+        "complexity": 0.7488136675233871
+      },
+      "analysis_result": {
+        "confidence": 0.8386221576512081,
+        "analysis_quality": 0.8914133520753207,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:50:21.679035"
+    },
+    "engine_state": {
+      "accuracy": 0.22834743816965858,
+      "iterations": 37
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 37
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:50:57.679133",
+    "iteration_id": 37,
+    "input_sample": "侵消战术运用得当，有效地削弱了对方的厚势。",
+    "analysis_result": "分析：侵消战术运用得当，有效地削弱了对方的厚势。。基于当前局面，这步棋的价值评分为0.88，在专业比赛中出现频率约为65%。",
+    "quality_score": 0.2486066456665011,
+    "improvement_record": {
+      "iteration_id": 38,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "侵消战术运用得当，有效地削弱了对方的厚势。",
+        "complexity": 0.5459786314350779
+      },
+      "analysis_result": {
+        "confidence": 0.8051771993412863,
+        "analysis_quality": 0.7251791249575255,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:50:57.679113"
+    },
+    "engine_state": {
+      "accuracy": 0.2294332952560228,
+      "iterations": 38
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 38
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:51:33.679265",
+    "iteration_id": 38,
+    "input_sample": "计算精准，每一步都在掌控之中。",
+    "analysis_result": "分析：计算精准，每一步都在掌控之中。。基于当前局面，这步棋的价值评分为0.74，在专业比赛中出现频率约为90%。",
+    "quality_score": 0.21418242654898417,
+    "improvement_record": {
+      "iteration_id": 39,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "计算精准，每一步都在掌控之中。",
+        "complexity": 0.9314305988004663
+      },
+      "analysis_result": {
+        "confidence": 0.6279038965368186,
+        "analysis_quality": 0.844374427174257,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4191158574668649,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:51:33.679246"
+    },
+    "engine_state": {
+      "accuracy": 0.22758057279141922,
+      "iterations": 39
+    },
+    "improvement_state": {
+      "accuracy": 0.4191158574668649,
+      "iterations": 39
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:52:09.679729",
+    "iteration_id": 39,
+    "input_sample": "扳粘定型，将不确定的因素转化为确定的优势。",
+    "analysis_result": "分析：扳粘定型，将不确定的因素转化为确定的优势。。基于当前局面，这步棋的价值评分为0.93，在专业比赛中出现频率约为61%。",
+    "quality_score": 0.18205474323447468,
+    "improvement_record": {
+      "iteration_id": 40,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "扳粘定型，将不确定的因素转化为确定的优势。",
+        "complexity": 0.5976907760735399
+      },
+      "analysis_result": {
+        "confidence": 0.9081967239585771,
+        "analysis_quality": 0.6318771142750561,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4191158574668649,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:52:09.679710"
+    },
+    "engine_state": {
+      "accuracy": 0.2230544725850147,
+      "iterations": 40
+    },
+    "improvement_state": {
+      "accuracy": 0.4191158574668649,
+      "iterations": 40
+    }
+  }
+]

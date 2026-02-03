@@ -1,0 +1,1679 @@
+[
+  {
+    "timestamp": "2026-02-03T23:25:28.687365",
+    "iteration_id": 0,
+    "input_sample": "死活分析：活棋，已有两眼，绝对安全。",
+    "analysis_result": "分析：死活分析：活棋，已有两眼，绝对安全。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为69%。",
+    "quality_score": 0.24519360034460697,
+    "improvement_record": {
+      "iteration_id": 1,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "死活分析：活棋，已有两眼，绝对安全。",
+        "complexity": 0.5359358702034285
+      },
+      "analysis_result": {
+        "confidence": 0.9099756520034645,
+        "analysis_quality": 0.7872482815391504,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.7,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:25:28.687358"
+    },
+    "engine_state": {
+      "accuracy": 0.24519360034460697,
+      "iterations": 1
+    },
+    "improvement_state": {
+      "accuracy": 0.7,
+      "iterations": 1
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:26:04.687512",
+    "iteration_id": 1,
+    "input_sample": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+    "analysis_result": "分析：厚薄分析：厚重，该区域棋子密集，形成强大厚势。。基于当前局面，这步棋的价值评分为0.77，在专业比赛中出现频率约为71%。",
+    "quality_score": 0.26341061769510005,
+    "improvement_record": {
+      "iteration_id": 2,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+        "complexity": 0.7664286142273584
+      },
+      "analysis_result": {
+        "confidence": 0.8755427233784575,
+        "analysis_quality": 0.6355570709692309,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.7,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:26:04.687491"
+    },
+    "engine_state": {
+      "accuracy": 0.2543021090198535,
+      "iterations": 2
+    },
+    "improvement_state": {
+      "accuracy": 0.7,
+      "iterations": 2
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:26:40.688392",
+    "iteration_id": 2,
+    "input_sample": "此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。",
+    "analysis_result": "分析：此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。。基于当前局面，这步棋的价值评分为0.73，在专业比赛中出现频率约为77%。",
+    "quality_score": 0.2955470960393447,
+    "improvement_record": {
+      "iteration_id": 3,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。",
+        "complexity": 0.773849925940068
+      },
+      "analysis_result": {
+        "confidence": 0.6293647133510234,
+        "analysis_quality": 0.5714809693219952,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:26:40.688366"
+    },
+    "engine_state": {
+      "accuracy": 0.2680504380263506,
+      "iterations": 3
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 3
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:27:16.687955",
+    "iteration_id": 3,
+    "input_sample": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+    "analysis_result": "分析：此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。。基于当前局面，这步棋的价值评分为0.89，在专业比赛中出现频率约为61%。",
+    "quality_score": 0.30759595456201627,
+    "improvement_record": {
+      "iteration_id": 4,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+        "complexity": 0.5693502611138226
+      },
+      "analysis_result": {
+        "confidence": 0.7657032375500641,
+        "analysis_quality": 0.6452565169692379,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:27:16.687930"
+    },
+    "engine_state": {
+      "accuracy": 0.27793681716026697,
+      "iterations": 4
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 4
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:27:52.687996",
+    "iteration_id": 4,
+    "input_sample": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+    "analysis_result": "分析：此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。。基于当前局面，这步棋的价值评分为0.73，在专业比赛中出现频率约为62%。",
+    "quality_score": 0.3715554825064179,
+    "improvement_record": {
+      "iteration_id": 5,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+        "complexity": 0.9790020614295329
+      },
+      "analysis_result": {
+        "confidence": 0.8979375590597194,
+        "analysis_quality": 0.7674576920291888,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:27:52.687959"
+    },
+    "engine_state": {
+      "accuracy": 0.29666055022949717,
+      "iterations": 5
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 5
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:28:28.688192",
+    "iteration_id": 5,
+    "input_sample": "官子阶段双方争夺激烈，每一步都关系到最终胜负。",
+    "analysis_result": "分析：官子阶段双方争夺激烈，每一步都关系到最终胜负。。基于当前局面，这步棋的价值评分为0.91，在专业比赛中出现频率约为72%。",
+    "quality_score": 0.2889585357986789,
+    "improvement_record": {
+      "iteration_id": 6,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "官子阶段双方争夺激烈，每一步都关系到最终胜负。",
+        "complexity": 0.9630049578956452
+      },
+      "analysis_result": {
+        "confidence": 0.9124724953932706,
+        "analysis_quality": 0.623241005402108,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:28:28.688167"
+    },
+    "engine_state": {
+      "accuracy": 0.29537688115769417,
+      "iterations": 6
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 6
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:29:04.688165",
+    "iteration_id": 6,
+    "input_sample": "这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。",
+    "analysis_result": "分析：这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。。基于当前局面，这步棋的价值评分为0.73，在专业比赛中出现频率约为77%。",
+    "quality_score": 0.2701170527585151,
+    "improvement_record": {
+      "iteration_id": 7,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。",
+        "complexity": 0.6285522799795712
+      },
+      "analysis_result": {
+        "confidence": 0.9028696711568277,
+        "analysis_quality": 0.7799667759056625,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:29:04.688146"
+    },
+    "engine_state": {
+      "accuracy": 0.29176833424352566,
+      "iterations": 7
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 7
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:29:40.688339",
+    "iteration_id": 7,
+    "input_sample": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+    "analysis_result": "分析：战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。。基于当前局面，这步棋的价值评分为0.84，在专业比赛中出现频率约为65%。",
+    "quality_score": 0.26433116417697705,
+    "improvement_record": {
+      "iteration_id": 8,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+        "complexity": 0.8467074661782231
+      },
+      "analysis_result": {
+        "confidence": 0.8583830317872525,
+        "analysis_quality": 0.5796662642991226,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:29:40.688309"
+    },
+    "engine_state": {
+      "accuracy": 0.2883386879852071,
+      "iterations": 8
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 8
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:30:16.688403",
+    "iteration_id": 8,
+    "input_sample": "轻重分析：很重，此手棋战略意义重大，应优先处理。",
+    "analysis_result": "分析：轻重分析：很重，此手棋战略意义重大，应优先处理。。基于当前局面，这步棋的价值评分为0.93，在专业比赛中出现频率约为86%。",
+    "quality_score": 0.2611539357726648,
+    "improvement_record": {
+      "iteration_id": 9,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "轻重分析：很重，此手棋战略意义重大，应优先处理。",
+        "complexity": 0.6102465950299801
+      },
+      "analysis_result": {
+        "confidence": 0.7668556919996014,
+        "analysis_quality": 0.8022045582971213,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6649999999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:30:16.688371"
+    },
+    "engine_state": {
+      "accuracy": 0.2853181599615913,
+      "iterations": 9
+    },
+    "improvement_state": {
+      "accuracy": 0.6649999999999999,
+      "iterations": 9
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:30:52.688466",
+    "iteration_id": 9,
+    "input_sample": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+    "analysis_result": "分析：意图分析：布局意图，构建外势，为中盘作战做准备。。基于当前局面，这步棋的价值评分为0.91，在专业比赛中出现频率约为82%。",
+    "quality_score": 0.3809132603275454,
+    "improvement_record": {
+      "iteration_id": 10,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+        "complexity": 0.8681969401544745
+      },
+      "analysis_result": {
+        "confidence": 0.6273148512696101,
+        "analysis_quality": 0.9402352991716885,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6317499999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:30:52.688445"
+    },
+    "engine_state": {
+      "accuracy": 0.2948776699981867,
+      "iterations": 10
+    },
+    "improvement_state": {
+      "accuracy": 0.6317499999999999,
+      "iterations": 10
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:31:28.688609",
+    "iteration_id": 10,
+    "input_sample": "死活分析：活棋，已有两眼，绝对安全。",
+    "analysis_result": "分析：死活分析：活棋，已有两眼，绝对安全。。基于当前局面，这步棋的价值评分为0.91，在专业比赛中出现频率约为67%。",
+    "quality_score": 0.22630671129958896,
+    "improvement_record": {
+      "iteration_id": 11,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "死活分析：活棋，已有两眼，绝对安全。",
+        "complexity": 0.9576194252968264
+      },
+      "analysis_result": {
+        "confidence": 0.7195701129761674,
+        "analysis_quality": 0.5837399634601561,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6317499999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:31:28.688582"
+    },
+    "engine_state": {
+      "accuracy": 0.29298898109368493,
+      "iterations": 11
+    },
+    "improvement_state": {
+      "accuracy": 0.6317499999999999,
+      "iterations": 11
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:32:04.688771",
+    "iteration_id": 11,
+    "input_sample": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+    "analysis_result": "分析：白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。。基于当前局面，这步棋的价值评分为0.81，在专业比赛中出现频率约为74%。",
+    "quality_score": 0.22766941341464303,
+    "improvement_record": {
+      "iteration_id": 12,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+        "complexity": 0.8831629778648697
+      },
+      "analysis_result": {
+        "confidence": 0.6345355050909629,
+        "analysis_quality": 0.669233538719014,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:32:04.688715"
+    },
+    "engine_state": {
+      "accuracy": 0.2894148606656392,
+      "iterations": 12
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 12
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:32:40.688795",
+    "iteration_id": 12,
+    "input_sample": "目数影响：高价值，此手棋价值约3目，显著改善了局面。",
+    "analysis_result": "分析：目数影响：高价值，此手棋价值约3目，显著改善了局面。。基于当前局面，这步棋的价值评分为0.90，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.18294937335744924,
+    "improvement_record": {
+      "iteration_id": 13,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "目数影响：高价值，此手棋价值约3目，显著改善了局面。",
+        "complexity": 0.9952804523311787
+      },
+      "analysis_result": {
+        "confidence": 0.8365615576581131,
+        "analysis_quality": 0.7922348916431264,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:32:40.688774"
+    },
+    "engine_state": {
+      "accuracy": 0.2781550883974497,
+      "iterations": 13
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 13
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:33:16.688922",
+    "iteration_id": 13,
+    "input_sample": "这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。",
+    "analysis_result": "分析：这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。。基于当前局面，这步棋的价值评分为0.95，在专业比赛中出现频率约为82%。",
+    "quality_score": 0.2255463445869772,
+    "improvement_record": {
+      "iteration_id": 14,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "这手棋体现了职业棋手的深远构思，既巩固了实地，又对上方白棋施加了压力。",
+        "complexity": 0.5722660450032211
+      },
+      "analysis_result": {
+        "confidence": 0.8624253285157262,
+        "analysis_quality": 0.6940278876113879,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:33:16.688894"
+    },
+    "engine_state": {
+      "accuracy": 0.2699501273999457,
+      "iterations": 14
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 14
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:33:52.688980",
+    "iteration_id": 14,
+    "input_sample": "目数影响：高价值，此手棋价值约3目，显著改善了局面。",
+    "analysis_result": "分析：目数影响：高价值，此手棋价值约3目，显著改善了局面。。基于当前局面，这步棋的价值评分为0.92，在专业比赛中出现频率约为66%。",
+    "quality_score": 0.20266198143541433,
+    "improvement_record": {
+      "iteration_id": 15,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "目数影响：高价值，此手棋价值约3目，显著改善了局面。",
+        "complexity": 0.9592294821377743
+      },
+      "analysis_result": {
+        "confidence": 0.7992397080581894,
+        "analysis_quality": 0.6945390310297279,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.6001624999999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:33:52.688955"
+    },
+    "engine_state": {
+      "accuracy": 0.2530607772928454,
+      "iterations": 15
+    },
+    "improvement_state": {
+      "accuracy": 0.6001624999999999,
+      "iterations": 15
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:34:28.689053",
+    "iteration_id": 15,
+    "input_sample": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+    "analysis_result": "分析：黑棋的攻击方向选择极佳，有效地发挥了子力的效率。。基于当前局面，这步棋的价值评分为0.76，在专业比赛中出现频率约为65%。",
+    "quality_score": 0.29538367370490315,
+    "improvement_record": {
+      "iteration_id": 16,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+        "complexity": 0.99413341185257
+      },
+      "analysis_result": {
+        "confidence": 0.6555506712864361,
+        "analysis_quality": 0.5066398291426101,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5701543749999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:34:28.689034"
+    },
+    "engine_state": {
+      "accuracy": 0.25370329108346784,
+      "iterations": 16
+    },
+    "improvement_state": {
+      "accuracy": 0.5701543749999999,
+      "iterations": 16
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:35:04.689163",
+    "iteration_id": 16,
+    "input_sample": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+    "analysis_result": "分析：厚薄分析：厚重，该区域棋子密集，形成强大厚势。。基于当前局面，这步棋的价值评分为0.85，在专业比赛中出现频率约为67%。",
+    "quality_score": 0.3030721431208503,
+    "improvement_record": {
+      "iteration_id": 17,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+        "complexity": 0.5746709678161944
+      },
+      "analysis_result": {
+        "confidence": 0.7783268345496892,
+        "analysis_quality": 0.8003966855685483,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5701543749999999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:35:04.689142"
+    },
+    "engine_state": {
+      "accuracy": 0.25699880011970133,
+      "iterations": 17
+    },
+    "improvement_state": {
+      "accuracy": 0.5701543749999999,
+      "iterations": 17
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:35:40.689247",
+    "iteration_id": 17,
+    "input_sample": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+    "analysis_result": "分析：黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。。基于当前局面，这步棋的价值评分为0.79，在专业比赛中出现频率约为64%。",
+    "quality_score": 0.3101484406020463,
+    "improvement_record": {
+      "iteration_id": 18,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+        "complexity": 0.8513662695154869
+      },
+      "analysis_result": {
+        "confidence": 0.6905858518135279,
+        "analysis_quality": 0.9923564216495471,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:35:40.689228"
+    },
+    "engine_state": {
+      "accuracy": 0.26158052776220825,
+      "iterations": 18
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 18
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:36:16.689311",
+    "iteration_id": 18,
+    "input_sample": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+    "analysis_result": "分析：战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。。基于当前局面，这步棋的价值评分为0.93，在专业比赛中出现频率约为89%。",
+    "quality_score": 0.18670230585870776,
+    "improvement_record": {
+      "iteration_id": 19,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+        "complexity": 0.6355751567140289
+      },
+      "analysis_result": {
+        "confidence": 0.8360497495586949,
+        "analysis_quality": 0.5086173240681919,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:36:16.689292"
+    },
+    "engine_state": {
+      "accuracy": 0.25413536477081256,
+      "iterations": 19
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 19
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:36:52.689678",
+    "iteration_id": 19,
+    "input_sample": "轻重分析：很重，此手棋战略意义重大，应优先处理。",
+    "analysis_result": "分析：轻重分析：很重，此手棋战略意义重大，应优先处理。。基于当前局面，这步棋的价值评分为0.84，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.26450889731378063,
+    "improvement_record": {
+      "iteration_id": 20,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "轻重分析：很重，此手棋战略意义重大，应优先处理。",
+        "complexity": 0.77110848496977
+      },
+      "analysis_result": {
+        "confidence": 0.7065823741105592,
+        "analysis_quality": 0.7600798826654172,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:36:52.689650"
+    },
+    "engine_state": {
+      "accuracy": 0.24249492846943607,
+      "iterations": 20
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 20
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:37:28.689509",
+    "iteration_id": 20,
+    "input_sample": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+    "analysis_result": "分析：意图分析：布局意图，构建外势，为中盘作战做准备。。基于当前局面，这步棋的价值评分为0.79，在专业比赛中出现频率约为76%。",
+    "quality_score": 0.3364345223320202,
+    "improvement_record": {
+      "iteration_id": 21,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+        "complexity": 0.5980250858386327
+      },
+      "analysis_result": {
+        "confidence": 0.9296807721582745,
+        "analysis_quality": 0.794879564147215,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:37:28.689490"
+    },
+    "engine_state": {
+      "accuracy": 0.2535077095726792,
+      "iterations": 21
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 21
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:38:04.689646",
+    "iteration_id": 21,
+    "input_sample": "白棋第37手是一步疑问手，错失了在左边展开的良机。",
+    "analysis_result": "分析：白棋第37手是一步疑问手，错失了在左边展开的良机。。基于当前局面，这步棋的价值评分为0.74，在专业比赛中出现频率约为60%。",
+    "quality_score": 0.2260575271300482,
+    "improvement_record": {
+      "iteration_id": 22,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋第37手是一步疑问手，错失了在左边展开的良机。",
+        "complexity": 0.971115707645094
+      },
+      "analysis_result": {
+        "confidence": 0.7722336855851224,
+        "analysis_quality": 0.7531456749563973,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:38:04.689619"
+    },
+    "engine_state": {
+      "accuracy": 0.2533465209442197,
+      "iterations": 22
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 22
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:38:40.689674",
+    "iteration_id": 22,
+    "input_sample": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+    "analysis_result": "分析：战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。。基于当前局面，这步棋的价值评分为0.86，在专业比赛中出现频率约为81%。",
+    "quality_score": 0.27598628634006434,
+    "improvement_record": {
+      "iteration_id": 23,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "战术紧急性：非常紧急，存在明显的战术威胁，应立即处理。",
+        "complexity": 0.5217813296354286
+      },
+      "analysis_result": {
+        "confidence": 0.8173534053963923,
+        "analysis_quality": 0.573527456049679,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:38:40.689654"
+    },
+    "engine_state": {
+      "accuracy": 0.26265021224248125,
+      "iterations": 23
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 23
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:39:16.691946",
+    "iteration_id": 23,
+    "input_sample": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+    "analysis_result": "分析：意图分析：布局意图，构建外势，为中盘作战做准备。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为89%。",
+    "quality_score": 0.33343025757185185,
+    "improvement_record": {
+      "iteration_id": 24,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "意图分析：布局意图，构建外势，为中盘作战做准备。",
+        "complexity": 0.6304155900786931
+      },
+      "analysis_result": {
+        "confidence": 0.7288861442837348,
+        "analysis_quality": 0.9025736509029171,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:39:16.691920"
+    },
+    "engine_state": {
+      "accuracy": 0.2734386035409687,
+      "iterations": 24
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 24
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:39:52.689877",
+    "iteration_id": 24,
+    "input_sample": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+    "analysis_result": "分析：黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。。基于当前局面，这步棋的价值评分为0.74，在专业比赛中出现频率约为65%。",
+    "quality_score": 0.25306503034881267,
+    "improvement_record": {
+      "iteration_id": 25,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+        "complexity": 0.5489542321132742
+      },
+      "analysis_result": {
+        "confidence": 0.8412575328684568,
+        "analysis_quality": 0.8817888527305435,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5416466562499999,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:39:52.689858"
+    },
+    "engine_state": {
+      "accuracy": 0.27847890843230855,
+      "iterations": 25
+    },
+    "improvement_state": {
+      "accuracy": 0.5416466562499999,
+      "iterations": 25
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:40:28.690022",
+    "iteration_id": 25,
+    "input_sample": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+    "analysis_result": "分析：白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。。基于当前局面，这步棋的价值评分为0.83，在专业比赛中出现频率约为70%。",
+    "quality_score": 0.2454378571524773,
+    "improvement_record": {
+      "iteration_id": 26,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+        "complexity": 0.6272637260251055
+      },
+      "analysis_result": {
+        "confidence": 0.6638303159847305,
+        "analysis_quality": 0.57721459880165,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.5145643234374998,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:40:28.689988"
+    },
+    "engine_state": {
+      "accuracy": 0.27348432677706597,
+      "iterations": 26
+    },
+    "improvement_state": {
+      "accuracy": 0.5145643234374998,
+      "iterations": 26
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:41:04.690097",
+    "iteration_id": 26,
+    "input_sample": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+    "analysis_result": "分析：白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。。基于当前局面，这步棋的价值评分为0.85，在专业比赛中出现频率约为86%。",
+    "quality_score": 0.30541913411154,
+    "improvement_record": {
+      "iteration_id": 27,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+        "complexity": 0.5514407673406996
+      },
+      "analysis_result": {
+        "confidence": 0.6066091300630663,
+        "analysis_quality": 0.6595261246015822,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.48883610726562476,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:41:04.690078"
+    },
+    "engine_state": {
+      "accuracy": 0.27371902587613495,
+      "iterations": 27
+    },
+    "improvement_state": {
+      "accuracy": 0.48883610726562476,
+      "iterations": 27
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:41:40.690231",
+    "iteration_id": 27,
+    "input_sample": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+    "analysis_result": "分析：黑棋的攻击方向选择极佳，有效地发挥了子力的效率。。基于当前局面，这步棋的价值评分为0.88，在专业比赛中出现频率约为66%。",
+    "quality_score": 0.24320704037910965,
+    "improvement_record": {
+      "iteration_id": 28,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+        "complexity": 0.5797592377428635
+      },
+      "analysis_result": {
+        "confidence": 0.9284729493465418,
+        "analysis_quality": 0.721758213650191,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.48883610726562476,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:41:40.690204"
+    },
+    "engine_state": {
+      "accuracy": 0.26702488585384127,
+      "iterations": 28
+    },
+    "improvement_state": {
+      "accuracy": 0.48883610726562476,
+      "iterations": 28
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:42:16.690292",
+    "iteration_id": 28,
+    "input_sample": "白棋第37手是一步疑问手，错失了在左边展开的良机。",
+    "analysis_result": "分析：白棋第37手是一步疑问手，错失了在左边展开的良机。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为61%。",
+    "quality_score": 0.24364700678579865,
+    "improvement_record": {
+      "iteration_id": 29,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋第37手是一步疑问手，错失了在左边展开的良机。",
+        "complexity": 0.8692831579276319
+      },
+      "analysis_result": {
+        "confidence": 0.6584803479688413,
+        "analysis_quality": 0.5210334677050726,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:42:16.690273"
+    },
+    "engine_state": {
+      "accuracy": 0.27271935594655033,
+      "iterations": 29
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 29
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:42:52.690364",
+    "iteration_id": 29,
+    "input_sample": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+    "analysis_result": "分析：此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。。基于当前局面，这步棋的价值评分为0.88，在专业比赛中出现频率约为79%。",
+    "quality_score": 0.28663717337953465,
+    "improvement_record": {
+      "iteration_id": 30,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+        "complexity": 0.7011519865931134
+      },
+      "analysis_result": {
+        "confidence": 0.7079385431740395,
+        "analysis_quality": 0.7664052946669331,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:42:52.690345"
+    },
+    "engine_state": {
+      "accuracy": 0.27493218355312576,
+      "iterations": 30
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 30
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:43:28.690464",
+    "iteration_id": 30,
+    "input_sample": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+    "analysis_result": "分析：厚薄分析：厚重，该区域棋子密集，形成强大厚势。。基于当前局面，这步棋的价值评分为0.92，在专业比赛中出现频率约为74%。",
+    "quality_score": 0.24954552645181888,
+    "improvement_record": {
+      "iteration_id": 31,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+        "complexity": 0.755665559947802
+      },
+      "analysis_result": {
+        "confidence": 0.8940250212233251,
+        "analysis_quality": 0.7626685245776803,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.4643943019023435,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:43:28.690443"
+    },
+    "engine_state": {
+      "accuracy": 0.2662432839651056,
+      "iterations": 31
+    },
+    "improvement_state": {
+      "accuracy": 0.4643943019023435,
+      "iterations": 31
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:44:04.690587",
+    "iteration_id": 31,
+    "input_sample": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+    "analysis_result": "分析：黑棋的攻击方向选择极佳，有效地发挥了子力的效率。。基于当前局面，这步棋的价值评分为0.91，在专业比赛中出现频率约为71%。",
+    "quality_score": 0.26152750170459915,
+    "improvement_record": {
+      "iteration_id": 32,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的攻击方向选择极佳，有效地发挥了子力的效率。",
+        "complexity": 0.6445464937023215
+      },
+      "analysis_result": {
+        "confidence": 0.6853004936371185,
+        "analysis_quality": 0.6553572526036566,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:44:04.690567"
+    },
+    "engine_state": {
+      "accuracy": 0.2697902814225607,
+      "iterations": 32
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 32
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:44:40.690699",
+    "iteration_id": 32,
+    "input_sample": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+    "analysis_result": "分析：厚薄分析：厚重，该区域棋子密集，形成强大厚势。。基于当前局面，这步棋的价值评分为0.94，在专业比赛中出现频率约为90%。",
+    "quality_score": 0.26657475158460725,
+    "improvement_record": {
+      "iteration_id": 33,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+        "complexity": 0.7180968635497313
+      },
+      "analysis_result": {
+        "confidence": 0.7963452294804941,
+        "analysis_quality": 0.6664175027987771,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:44:40.690679"
+    },
+    "engine_state": {
+      "accuracy": 0.268849127947015,
+      "iterations": 33
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 33
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:45:16.690819",
+    "iteration_id": 33,
+    "input_sample": "此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。",
+    "analysis_result": "分析：此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。。基于当前局面，这步棋的价值评分为0.86，在专业比赛中出现频率约为81%。",
+    "quality_score": 0.24559318534902086,
+    "improvement_record": {
+      "iteration_id": 34,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此手筋是局面的要点，充分体现了职业九段的敏锐嗅觉。",
+        "complexity": 0.517604141650496
+      },
+      "analysis_result": {
+        "confidence": 0.9159750247698559,
+        "analysis_quality": 0.8266131256034157,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:45:16.690799"
+    },
+    "engine_state": {
+      "accuracy": 0.2600654207247319,
+      "iterations": 34
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 34
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:45:52.690964",
+    "iteration_id": 34,
+    "input_sample": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+    "analysis_result": "分析：厚薄分析：厚重，该区域棋子密集，形成强大厚势。。基于当前局面，这步棋的价值评分为0.83，在专业比赛中出现频率约为83%。",
+    "quality_score": 0.3175426414885866,
+    "improvement_record": {
+      "iteration_id": 35,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "厚薄分析：厚重，该区域棋子密集，形成强大厚势。",
+        "complexity": 0.8266771836509037
+      },
+      "analysis_result": {
+        "confidence": 0.7502894438298138,
+        "analysis_quality": 0.7520990258890812,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:45:52.690936"
+    },
+    "engine_state": {
+      "accuracy": 0.2665131818387093,
+      "iterations": 35
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 35
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:46:28.691014",
+    "iteration_id": 35,
+    "input_sample": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+    "analysis_result": "分析：黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。。基于当前局面，这步棋的价值评分为0.82，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.2524107372479035,
+    "improvement_record": {
+      "iteration_id": 36,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+        "complexity": 0.6506320886951282
+      },
+      "analysis_result": {
+        "confidence": 0.893829607919381,
+        "analysis_quality": 0.6219893760445762,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "detail",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:46:28.690996"
+    },
+    "engine_state": {
+      "accuracy": 0.2672104698482519,
+      "iterations": 36
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 36
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:47:04.691118",
+    "iteration_id": 36,
+    "input_sample": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+    "analysis_result": "分析：黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。。基于当前局面，这步棋的价值评分为0.90，在专业比赛中出现频率约为68%。",
+    "quality_score": 0.23468511222067379,
+    "improvement_record": {
+      "iteration_id": 37,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "黑棋的外势构建恰到好处，为后续的中腹作战奠定了坚实基础。",
+        "complexity": 0.5663848040697858
+      },
+      "analysis_result": {
+        "confidence": 0.8583693341576766,
+        "analysis_quality": 0.6175994909055659,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "accuracy",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:47:04.691097"
+    },
+    "engine_state": {
+      "accuracy": 0.26013706765916533,
+      "iterations": 37
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 37
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:47:40.691244",
+    "iteration_id": 37,
+    "input_sample": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+    "analysis_result": "分析：此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。。基于当前局面，这步棋的价值评分为0.80，在专业比赛中出现频率约为61%。",
+    "quality_score": 0.27542386099587873,
+    "improvement_record": {
+      "iteration_id": 38,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "此处的定式选择显示出黑棋的深厚功力，后续变化极为复杂。",
+        "complexity": 0.659618836877217
+      },
+      "analysis_result": {
+        "confidence": 0.9468565888970915,
+        "analysis_quality": 0.976549045658951,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed",
+          "accuracy"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:47:40.691217"
+    },
+    "engine_state": {
+      "accuracy": 0.26335874972084217,
+      "iterations": 38
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 38
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:48:16.691340",
+    "iteration_id": 38,
+    "input_sample": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+    "analysis_result": "分析：白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。。基于当前局面，这步棋的价值评分为0.93，在专业比赛中出现频率约为64%。",
+    "quality_score": 0.2727812832231961,
+    "improvement_record": {
+      "iteration_id": 39,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "白棋在这里选择了稳健的下法，虽然损失了些许先机，但避免了复杂的战斗。",
+        "complexity": 0.7406208507079687
+      },
+      "analysis_result": {
+        "confidence": 0.8929321794125074,
+        "analysis_quality": 0.8105656096247604,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "detail",
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:48:16.691313"
+    },
+    "engine_state": {
+      "accuracy": 0.266272177364582,
+      "iterations": 39
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 39
+    }
+  },
+  {
+    "timestamp": "2026-02-03T23:48:52.691445",
+    "iteration_id": 39,
+    "input_sample": "官子阶段双方争夺激烈，每一步都关系到最终胜负。",
+    "analysis_result": "分析：官子阶段双方争夺激烈，每一步都关系到最终胜负。。基于当前局面，这步棋的价值评分为0.82，在专业比赛中出现频率约为85%。",
+    "quality_score": 0.27378133716007746,
+    "improvement_record": {
+      "iteration_id": 40,
+      "input_processed": {
+        "type": "game_analysis",
+        "content": "官子阶段双方争夺激烈，每一步都关系到最终胜负。",
+        "complexity": 0.9494390249635267
+      },
+      "analysis_result": {
+        "confidence": 0.768056122239284,
+        "analysis_quality": 0.8277949188183464,
+        "suggestions": [
+          "Improve accuracy",
+          "Enhance detail",
+          "Optimize speed"
+        ],
+        "issues_identified": [
+          "speed"
+        ]
+      },
+      "parameters_updated": {
+        "analysis_depth": 5,
+        "confidence_threshold": 0.44117458680722627,
+        "feedback_weight": 0.8
+      },
+      "timestamp": "2026-02-03T23:48:52.691407"
+    },
+    "engine_state": {
+      "accuracy": 0.2649865937426362,
+      "iterations": 40
+    },
+    "improvement_state": {
+      "accuracy": 0.44117458680722627,
+      "iterations": 40
+    }
+  }
+]
